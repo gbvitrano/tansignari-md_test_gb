@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Tansignari"
+title = "T’ansignari e t’appeddiri!"
 
 enableRobotsTXT = true
 
@@ -53,7 +53,7 @@ anchor = "smart"
 
 [languages]
 [languages.it]
-title = "Tansignari"
+title = "T’ansignari e t’appeddiri!"
 description = "Inserire una descrizione"
 languageName ="Italiano"
 # Weight used for sorting.
