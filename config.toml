@@ -53,7 +53,7 @@ anchor = "smart"
 
 [languages]
 [languages.it]
-title = "T’ansignari e t’appeddiri!"
+title = "T’ansignari"
 description = "Inserire una descrizione"
 languageName ="Italiano"
 # Weight used for sorting.
