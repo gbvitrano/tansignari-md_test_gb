@@ -2,9 +2,13 @@
 title: Galateo
 linkTitle: Galateo
 type: statico
+menu:
+  main:
+    weight: 3
 
 
 ---
+
 
 # Il galateo di questo spazio
 

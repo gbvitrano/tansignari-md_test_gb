@@ -1,11 +1,11 @@
 {{ $links := .Site.Params.links }}
- <footer class="bg-dark py-5 row d-print-none"> 
+<footer class="bg-dark py-5 row d-print-none">
   <div class="container-fluid mx-sm-5">
     <div class="row">
       <div class="col-6 col-sm-4 text-xs-center order-sm-2">
-        {{ with $links }} 
-       {{ with index . "user"}}
-    <!--    {{ template "footer-links-block"  . }} -->
+        {{ with $links }}
+        {{ with index . "user"}}
+        {{ template "footer-links-block"  . }}
         {{ end }}
         {{ end }}
       </div>
@@ -16,27 +16,24 @@
         {{ end }}
         {{ end }}
       </div>
-      <div class="col-12">
-        <!-- {{ with .Site.Params.copyright }}<small class="text-white">&copy; {{ now.Year}} {{ .}} {{ T "footer_all_rights_reserved" }}</small>{{ end }} -->
-        <p class="col-12"> "T’ansignari e t’appeddiri!", ti devo insegnare a fare qualcosa e ti devo perdere. di <a href="http://opendatasicilia.it/" title="OpenDataSicilia" target="_blank">OpenDataSicilia</a> è distribuito con <a href="http://creativecommons.org/licenses/by-sa/4.0/" title="Licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale." target="_blank">Licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale.</a><br>
-Questo sito è stato costruito e curato dalla comunità <a href="http://opendatasicilia.it/" title="OpenDataSicilia" target="_blank">OpenDataSicilia</a> <br>
-Short link di T’ansignari <a href="http://bit.ly/tansignari" target="_blank">bit.ly/tansignari</a>, condividi con <strong>#tansignari @opendatasicilia</strong></p>
-     {{ with .Site.Params.privacy_policy }}<small class="ml-1"><a href="{{ . }}" target="_blank">{{ T "footer_privacy_policy" }}</a></small>{{ end }}
-	{{ if not .Site.Params.ui.footer_about_disable }} 
-		<!-- {{ with .Site.GetPage "about" }}<p class="mt-2"><a href="{{ .RelPermalink }}">{{ .Title }}</a></p>{{ end }} -->
+      <div class="col-12 col-sm-4 text-center py-2 order-sm-2">
+        {{ with .Site.Params.copyright }}<small class="text-white">&copy; {{ now.Year}} {{ .}} {{ T "footer_all_rights_reserved" }}</small>{{ end }}
+        {{ with .Site.Params.privacy_policy }}<small class="ml-1"><a href="{{ . }}" target="_blank">{{ T "footer_privacy_policy" }}</a></small>{{ end }}
+	{{ if not .Site.Params.ui.footer_about_disable }}
+		{{ with .Site.GetPage "about" }}<p class="mt-2"><a href="{{ .RelPermalink }}">{{ .Title }}</a></p>{{ end }}
 	{{ end }}
       </div>
     </div>
   </div>
 </footer>
-<!-- {{ define "footer-links-block" }}
- <ul class="list-inline mb-0"> 
+{{ define "footer-links-block" }}
+<ul class="list-inline mb-0">
   {{ range . }}
   <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="{{ .name }}" aria-label="{{ .name }}">
     <a class="text-white" target="_blank" href="{{ .url }}">
-      <i class="{{ .icon }}"></i> 
+      <i class="{{ .icon }}"></i>
     </a>
-  </li><em></em>
+  </li>
   {{ end }}
-</ul> 
-{{ end }} -->
+</ul>
+{{ end }}

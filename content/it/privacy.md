@@ -1,10 +1,14 @@
 ---
 title: Informativa privacy estesa
-linkTitle: Informativa privacy estesa
+linkTitle: Privacy
 type: statico
+menu:
+  main:
+    weight: 6
 
 
 ---
+
 
 # Informativa privacy estesa
 

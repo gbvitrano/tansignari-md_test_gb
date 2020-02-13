@@ -2,9 +2,13 @@
 title: OpenDataSicilia
 linkTitle: OpenDataSicilia
 type: statico
+menu:
+  main:
+    weight: 5
 
 
 ---
+
 
 # OpenDataSicilia
 

@@ -1,17 +1,17 @@
 ---
 title: Galateo
 linkTitle: Galateo
-weight: 20
 type: statico
 
 
 ---
 
+
 # Il galateo di questo spazio
 
 Per questo spazio ci è stato di ispirazione il **rapporto** tra un **nonna/o** e un/a **nipote**. Quindi di base faremo riferimento a quel modo di essere e di interrelazionarsi, che conoscono (quasi) tutti quelli che hanno avuto l'opportunità di avere una nonna e un nonno.
 
-E poi per favore:
+E poi:
 
 - **prima di chiedere** aiuto qui, **cerca** un po' sul web. Nel 99% dei casi la risposta esiste già ed è quella giusta;
 - **prima di chiedere** aiuto qui, dopo che ti sei documentato, fai comunque qualche tentativo per **risolvere** il tutto in autonomia. Questo ti aiuterà a scrivere in modo molto chiaro la domanda;
@@ -20,9 +20,9 @@ E poi per favore:
 - nel titolo della _issue_ per favore **inserisci** un'"**etichetta**" per classificare i post (ad esempio `[scripting] Come fare a rimuovere i duplicati di una tabella`);
 - ove possibile **fai richieste "strette"**, non troppo generiche e su temi ricchi e estesi. Una richiesta più verticale e circoscritta ha molte più possibilità di ricevere risposta;
 - se sei **soddisfatta/o** della risposta, sei invitata/o a **rimborsare**, creando un testo, una **ricetta**, che racconti per bene il problema che hai riscontrato e come è possibile risolverlo (vedi sotto);
-- quando **rispondi**, fornisci gli elementi di base utili a comprendere quanto hai scritto ed evita lo stile delle chat;
+- quando **rispondi**, fornisci gli elementi di base utili a comprendere quanto hai scritto;
 - tansignari **non è un servizio per richiedere la scrittura gratuita di script, procedure, testi, ecc.**. Se ci dici cosa hai provato/creato fino ad ora e dove ti sei bloccato, possiamo provare ad aiutarti.
 
 ## Ricette
 
-Le stiamo raccogliendo in [questa cartella](./ricette) e pubblicando [**qui**](https://tansignari.readthedocs.io/it/latest/ricette/index.html). Inserisci le tue qui. Se non sai come si fa, chiedilo con una _issue_; non appena possibile scriveremo una guida.
+Le stiamo raccogliendo in [questa cartella](./ricette) e pubblicando [**qui**](https://tansignari.readthedocs.io/it/latest/ricette/index.html). Inserisce le tue qui. Se non sai come si fa, chiedilo con una _issue_; non appena possibile scriveremo una guida.

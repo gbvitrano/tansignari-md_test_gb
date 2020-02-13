@@ -2,9 +2,13 @@
 title: Parlano di noi
 linkTitle: Parlano di noi
 type: statico
+menu:
+  main:
+    weight: 4
 
 
 ---
+
 
 # Parlano di noi
 
