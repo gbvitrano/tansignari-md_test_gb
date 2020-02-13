@@ -1,8 +1,9 @@
 ---
 title: Galateo
-menu:
-  main:
-    weight: 21
+linkTitle: Galateo
+type: statico
+
+
 ---
 
 # Il galateo di questo spazio
