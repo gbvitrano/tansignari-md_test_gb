@@ -5,8 +5,6 @@ type: statico
 menu:
   main:
     weight: 6
-
-
 ---
 
 
