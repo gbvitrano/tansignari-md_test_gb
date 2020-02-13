@@ -5,5 +5,5 @@ linkTitle: "Ricette"
 weight: 1
 menu:
   main:
-    weight: 2
+    weight: 1
 ---
