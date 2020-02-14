@@ -146,12 +146,12 @@ no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY
 	name = "User mailing list"
 	url = "https://groups.google.com/forum/#!forum/opendatasicilia"
 	icon = "fa fa-envelope"
-        desc = "Discussion and help from your fellow users"
+        desc = "Discussione e aiuto agli utenti"
 [[params.links.user]]
 	name ="Twitter"
 	url = "https://twitter.com/opendatasicilia"
 	icon = "fab fa-twitter"
-        desc = "Follow us on Twitter to get the latest news!"
+        desc = "Seguici su Twitter per ricevere le ultime notizie!"
 [[params.links.user]]
 	name = "Facebook"
 	url = "https://www.facebook.com/groups/opendatasicilia/"
@@ -167,7 +167,7 @@ no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY
 	name = "GitHub"
 	url = "https://github.com/opendatasicilia/tansignari-md"
 	icon = "fab fa-github"
-        desc = "Development takes place here!"
+        desc = "Lo sviluppo avviene qui!"
 [[params.links.developer]]
 	name = "Telegram"
 	url = "https://t.me/opendatasicilia."
