@@ -4,6 +4,13 @@ linkTitle: "Google sheet IMPORTDATA() modificare la frequenza di aggiornamento"
 date: 2019-03-20
 description: >
  La funzione IMPORTDATA() di Google sheet e il suo aggiornamento in tempo reale.
+tags:
+  - gsheet
+  - script
+  - trigger
+issue: 25
+autore: "gbvitrano"
+chef: "Andrea Borruso"
 ---
 
 * autore: [gbvitrano](https://twitter.com/gbvitrano)

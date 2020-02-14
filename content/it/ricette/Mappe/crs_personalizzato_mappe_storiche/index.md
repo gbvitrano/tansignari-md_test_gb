@@ -6,17 +6,18 @@ description: >
   Creare SR personalizzato per proiezione `Lambert` e `coordinate geografiche`.
 tags:
 - PROJ
-- GDAL
+- GDAL/OGR
 - CRS
-- mappe
+- mappa
 - datum
 - georeferenziazione
-cuoco: "Totò Fiandaca"
+issue: 113
+autore: "Totò Fiandaca"
 chef: "Andrea Borruso"
 ---
 
 - issue correlata: [#113](https://github.com/opendatasicilia/tansignari/issues/113)
-- cuoco: [Totò Fiandaca](https://twitter.com/totofiandaca); chef: [Andrea Borruso](https://github.com/aborruso);
+- autore: [Totò Fiandaca](https://twitter.com/totofiandaca); chef: [Andrea Borruso](https://github.com/aborruso);
 - ingredienti: [PROJ](https://proj.org/about.html), [GDAL](https://gdal.org/)
 
 ## Introduzione

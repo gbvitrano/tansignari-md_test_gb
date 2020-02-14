@@ -4,13 +4,20 @@ linkTitle: "Come fare leggere un file in formato .MD a ReadtheDocs"
 date: 2020-01-26
 description: >
  Come fare leggere un file in formato .MD a ReadtheDocs (in un progetto su Github)
+tags:
+  - markdown
+  - RTD
+  - github
+issue: 106
+autore: "Ciro Spataro"
+chef: "Andrea Borruso"
 ---
 
 ## Come fare leggere un file in formato .MD a ReadtheDocs (in un progetto su Github) 
 
 
 * autore: [Ciro Spataro](https://twitter.com/cirospat)
-* issue: [#106](https://github.com/opendatasicilia/tansignari/issues/106) fornitore ricetta [mastro Andrea Borruso](https://twitter.com/aborruso?lang=it)
+* issue: [#106](https://github.com/opendatasicilia/tansignari/issues/106) fornitore ricetta [Andrea Borruso](https://twitter.com/aborruso?lang=it)
 
 ---
 

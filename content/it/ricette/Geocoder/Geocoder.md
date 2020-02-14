@@ -4,6 +4,12 @@ linkTitle: "Ottenere i dati geografici di latitudine e longitudine dall'indirizz
 date: 2017-01-05
 description: >
   Estrarre coordinate a partire  dall'indirizzo sfruttando un API di Openstreetmap denominata: **Nominatim**.
+tags:
+  - geocoding
+  - gsheet
+  - nominatim
+autore: "gbvitrano"
+chef: "gbvitrano"
 ---
 
 Se si ha un file tabellare con in un colonna l'indirizzo è possibile ottenere i dati di latitudine e longitudine sfruttando un API di Openstreetmap denominata: **Nominatim**.

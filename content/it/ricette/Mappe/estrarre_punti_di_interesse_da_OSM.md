@@ -4,6 +4,12 @@ linkTitle: "Estrarre dei punti di interesse da OpenStreetMap con Overpass turbo"
 date: 2019-03-15
 description: >
   Estrarre feature da OSM usando Overpass Turbo.
+tags:
+  - OSM
+  - Overpass turbo
+  - api
+issue: 
+autore: "Gabriele Francescotto"
 ---
 
 

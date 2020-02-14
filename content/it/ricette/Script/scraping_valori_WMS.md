@@ -4,6 +4,16 @@ linkTitle: "Scraping valori da un servizio WMS"
 date: 2019-03-26
 description: >
  Come effettuare il `draping`di punti con il servizio WMS.
+tags:
+  - scraping
+  - WMS
+  - bash
+  - script
+  - latlon
+  - draping
+issue: 44
+autore: "Totò Fiandaca"
+chef: "Andrea Borruso"
 ---
 
 * autore: _[Totò Fiandaca](https://twitter.com/totofiandaca?lang=it)_

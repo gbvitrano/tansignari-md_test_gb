@@ -4,6 +4,13 @@ linkTitle: "Come creare una GIF animata per Telegram"
 date: 2020-01-26
 description: >
   Come creare una GIF animata per Telegram usando la riga di comando.
+tags:
+  - ffmpeg
+  - Telegram
+  - gif
+issue: 107
+autore: "Andrea Borruso"
+chef: "Andrea Borruso"
 ---
 
 - issue correlata: `[#107](https://github.com/opendatasicilia/tansignari/issues/107)`

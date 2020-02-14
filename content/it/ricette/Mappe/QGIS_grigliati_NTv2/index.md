@@ -9,7 +9,9 @@ tags:
 - SQL
 - SpatiaLite
 - NTv2
+issue: 100
 autore: "Totò Fiandaca"
+chef: "Andrea Borruso"
 ---
 
 - issue correlata: [#100](https://github.com/opendatasicilia/tansignari/issues/100)

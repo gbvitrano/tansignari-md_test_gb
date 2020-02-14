@@ -6,8 +6,9 @@ description: >
   Trucco per tematizzare i punti in `uMap`.
 tags:
 - Umap
-- mappe
+- mappa
 autore: "gbvitrano"
+chef: "gbvitrano"
 ---
 
 * autore: [gbvitrano](https://twitter.com/gbvitrano)

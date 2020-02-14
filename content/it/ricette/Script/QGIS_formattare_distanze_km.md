@@ -4,6 +4,12 @@ linkTitle: "QGIS formattare le distanze chilometriche progressive"
 date: 2019-07-21
 description: >
  Formattare le distanze chilometriche progressive utilizzando una espressione nell'etichetta di QGIS.
+tags:
+  - QGIS
+  - HfcQGIS
+issue: 59
+autore: "Agostino Ficco"
+chef: "Totò Fiandaca"
 ---
 
 * autore: _[Agostino Ficco](https://twitter.com/)_

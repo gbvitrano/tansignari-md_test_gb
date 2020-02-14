@@ -4,6 +4,18 @@ linkTitle: "Estrarre dati da un file XML"
 date: 2019-04-18
 description: >
  Estrarre dati da un file QML di QGIS che è un file XML.
+tags:
+  - QGIS
+  - bash
+  - script
+  - XML
+  - yq
+  - xmlstarlet
+  - Miller
+  - XPATH
+issue: 50
+autore: "Totò Fiandaca"
+chef: "Andrea Borruso"
 ---
 
 * autore: _[Totò Fiandaca](https://twitter.com/totofiandaca?lang=it)_

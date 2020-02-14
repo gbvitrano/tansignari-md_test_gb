@@ -6,8 +6,9 @@ description: >
   Trucco per tematizzare poligoni in `uMap`.
 tags:
 - uMap
-- mappe
+- mappa
 autore: "gbvitrano"
+chef: "gbvitrano"
 ---
 
 * autore: [gbvitrano](https://twitter.com/gbvitrano)

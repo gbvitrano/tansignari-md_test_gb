@@ -3,7 +3,16 @@ title: "Correzione dati usando uno script"
 linkTitle: "Correzione dati usando uno script"
 date: 2019-03-26
 description: >
- La correzione dei dati puo' essere effettuata in vari modi, quella che permette di ripetere, facilmente, le stesse correzioni nel tempo è quella tramite l'uso di uno script..
+ La correzione dei dati puo' essere effettuata in vari modi, quella che permette di ripetere, facilmente, le stesse correzioni nel tempo è quella tramite l'uso di uno script.
+tags:
+  - script
+  - bash
+  - SQLite
+  - SpatiaLite
+  - SQL
+issue: 8
+autore: "Totò Fiandaca"
+chef: "Andrea Borruso"
 ---
 
 * autore: _[Totò Fiandaca](https://twitter.com/totofiandaca?lang=it)_

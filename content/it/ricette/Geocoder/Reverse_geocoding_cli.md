@@ -4,6 +4,13 @@ linkTitle: "Reverse Geocoding"
 date: 2019-03-15
 description: >
   Reverse Geocoding usando la riga di comando.
+tags:
+  - geocoding
+  - riga di comando
+  - nominatim
+issue: 38
+autore: "Totò Fiandaca"
+chef: "Andrea Borruso"
 ---
 
 

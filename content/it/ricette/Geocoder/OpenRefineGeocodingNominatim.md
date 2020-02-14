@@ -3,7 +3,15 @@ title: "OpenRefine Geocoding con Nominatim"
 linkTitle: "OpenRefine Geocoding con Nominatim"
 date: 2019-03-07
 description: >
-  Come estrarre la Latitudine e longitudine utilizzando il servizio di Nominatims di OSM.
+  Come estrarre la Latitudine e longitudine utilizzando il servizio di Nominatim di OSM.
+tags:
+  - OSM
+  - geocoding
+  - latlon
+  - OpenRefine
+  - nominatim
+autore: "gbvitrano"
+chef: "gbvitrano"
 ---
 
 ## Caso d'uso

@@ -4,6 +4,13 @@ linkTitle: "Reverse Geocoding con Two-way Geocoding"
 date: 2019-41-14
 description: >
   Come usare una estensione di Google sheet per fare Reverse Geocoding.
+tags:
+  - geocoding
+  - gsheet
+  - google maps
+issue: 36
+autore: "Totò Fiandaca"
+chef: "Totò Fiandaca"
 ---
 
 

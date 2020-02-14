@@ -4,10 +4,15 @@ linkTitle: "Messaggio Read the Docs di “build fails"
 date: 2020-01-26
 description: >
  Messaggio Read the Docs di “build fails”: [cannot import name “PackageFinder” from “pip._internal.index”]
+tags:
+  - RTD
+issue: 106
+autore: "Ciro Spataro"
+chef: "Andrea Borruso"
 ---
 
 * autore: [Ciro Spataro](https://twitter.com/cirospat)
-* issue: [#106](https://github.com/opendatasicilia/tansignari/issues/106#issuecomment-577152591) - aiuto nell'individuazione della  soluzione: [Andrea Borruso](https://twitter.com/aborruso?lang=it)
+* issue: [#106](https://github.com/opendatasicilia/tansignari/issues/106) - aiuto nell'individuazione della  soluzione: [Andrea Borruso](https://twitter.com/aborruso?lang=it)
 
 ---
 

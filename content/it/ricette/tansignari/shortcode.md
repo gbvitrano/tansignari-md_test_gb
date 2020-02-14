@@ -3,7 +3,14 @@ title: "Shortcode"
 linkTitle: "Shortcode"
 date: 2020-02-11
 description: >
-  Cosa sono gli shortcode e come usarli
+  Cosa sono gli shortcode e come usarli.
+tags:
+  - hugo
+  - docsy
+  - shortcodes
+issue: 
+autore: "Andrea Borruso"
+chef: "Andrea Borruso"
 ---
 
 In T'ansignari è possibile utilizzare gli [`shortcodes` di Docsy](https://www.docsy.dev/docs/adding-content/shortcodes/) e [hugo](https://gohugo.io/content-management/shortcodes/). Consentono di ottenre con stringhe brevi di codice, un output HTML altrimenti più complesso.

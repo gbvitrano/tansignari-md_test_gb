@@ -4,6 +4,17 @@ linkTitle: "Estrarre dati da un file XML con Google sheet"
 date: 2019-04-14
 description: >
  Estrarre dati da un file XML con Google sheet (XPATH).
+tags:
+  - gsheet
+  - XPATH
+  - XML
+  - KML/KMZ
+  - bash
+  - script
+  - yq
+issue: 84
+autore: "gbvitrano"
+chef: "Andrea Borruso"
 ---
 
 * autore: [gbvitrano](https://twitter.com/gbvitrano)

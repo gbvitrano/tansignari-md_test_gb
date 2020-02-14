@@ -4,6 +4,18 @@ linkTitle: "Traformare un file TSV in gpl"
 date: 2019-04-21
 description: >
  A partire da un file `QML` (file di tematizzazione di QGIS) ottenere un file **QGIS Palette** in formato `gpl` da riutilizzare in QGIS   per la tematizzazione feature e legenda.
+tags:
+  - QGIS
+  - bash
+  - xmlstarlet
+  - XPATH
+  - Miller
+  - gpl
+  - QML
+  - GIMP
+issue: 63
+autore: "Totò Fiandaca"
+chef: "Andrea Borruso"
 ---
 
 * autore: _[Totò Fiandaca](https://twitter.com/totofiandaca?lang=it)_
@@ -16,7 +28,7 @@ description: >
 
 ## script bash
 
-```
+```bash
 #!/bin/bash
 set -x
 
@@ -80,7 +92,7 @@ DOVE:
 
 ### creo un file gpl con testo costante
 
-```
+```bash
 #!/bin/bash
 set -x
 
@@ -104,7 +116,7 @@ Columns: 4
 
 ## estraggo in ordine i campi 2 e 3 e rinomino
 
-```
+```bash
 #!/bin/bash
 set -x
 
@@ -262,7 +274,7 @@ Columns: 4
 
 ## allinea a destra
 
-```
+```bash
 #!/bin/bash
 set -x
 
@@ -314,7 +326,7 @@ Columns: 4
 
 ## creare un solo campo
 
-```
+```bash
 #!/bin/bash
 set -x
 
@@ -367,7 +379,7 @@ Columns: 4
 
 ## script unico
 
-```
+```bash
 #!/bin/bash
 set -x
 

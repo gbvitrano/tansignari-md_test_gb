@@ -4,6 +4,14 @@ linkTitle: "Creare un feed RSS"
 date: 2020-02-10
 description: >
   Creare un feed RSS a partire da una pagina web usando feed43.
+tags:
+  - feed RSS
+  - web
+  - html
+  - feed43
+issue: 5
+autore: "Ciro Spataro"
+chef: "Andrea Borruso"
 ---
 
 - issue correlata: [#5](https://github.com/opendatasicilia/tansignari/issues/5)

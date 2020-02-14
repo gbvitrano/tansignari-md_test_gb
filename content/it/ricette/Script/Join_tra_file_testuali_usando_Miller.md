@@ -4,6 +4,15 @@ linkTitle: "Join tra file testuali usando Miller"
 date: 2019-04-18
 description: >
  Come realizzare una JOIN tabellare tra file testuali usanso Miller.
+tags:
+  - Miller
+  - CSV
+  - TSV
+  - Join
+  - script
+issue: 60
+autore: "Totò Fiandaca"
+chef: "Andrea Borruso"
 ---
 
 * autore: _[Totò Fiandaca](https://twitter.com/totofiandaca?lang=it)_
@@ -16,7 +25,7 @@ description: >
 
 ## script
 
-```
+```bash
 mlr --icsv --onidx --ofs "\t" cat layer.csv >layer_t.tsv
 mlr --nidx --fs "\t" join -j 3 -r 1 --rp r -f out_regioni_xpath.tsv then cut -f 1,r2 layer_t.tsv >out.tsv
 ```

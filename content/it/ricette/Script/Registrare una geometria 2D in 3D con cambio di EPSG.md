@@ -3,25 +3,21 @@ title: "Come registrare una geometria 2D in 3D con cambio di EPSG"
 linkTitle: "Come registrare una geometria 2D in 3D con cambio di EPSG"
 date: 2019-04-14
 description: >
- A short lead descripton about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
+ SpatiaLite, come registrare una geometria con cambio di EPSG.
+tags:
+  - SpatiaLite
+  - query
+  - EPSG
+  - SQL
+  - script
+issue: 54
+autore: "Giuseppe Guarino"
+chef: "Totò Fiandaca"
 ---
 
 * autore: _[Giuseppe Guarino](https://www.linkedin.com/in/guarino-giuseppe/)_
 * issue: [#54](https://github.com/opendatasicilia/tansignari/issues/54) fornitore ricetta *[Totò Fiandaca](https://twitter.com/totofiandaca?lang=it)*
 * ingredienti: [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index)
-
----
-
-<!-- TOC -->
-
-- [Come registrare una geometria 2D in 3D con cambio di EPSG](#come-registrare-una-geometria-2d-in-3d-con-cambio-di-epsg)
-  - [Introduzione](#introduzione)
-  - [Dataset](#dataset)
-  - [Step 1 - Avviare SpatiaLite](#step-1---avviare-spatialite)
-  - [Step 2 - Inserire i nostri dati](#step-2---inserire-i-nostri-dati)
-  - [Step 3 - Effettuare la query](#step-3---effettuare-la-query)
-
-<!-- /TOC -->
 
 ---
 

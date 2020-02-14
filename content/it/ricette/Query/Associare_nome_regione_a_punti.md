@@ -3,7 +3,15 @@ title: "Associare il nome delle regioni ISTAT a dei punti demanio"
 linkTitle: "Associare il nome delle regioni ISTAT"
 date: 2019-03-07
 description: >
- Associare il nome delle regioni ISTAT a dei punti demanio
+ Associare il nome delle regioni ISTAT a dei punti demanio.
+tags:
+  - SQL
+  - query
+  - mapshaper
+  - ISTAT
+issue: 
+autore: "Totò Fiandaca"
+chef: "Andrea Borruso"
 ---
 
 - autore: _Totò Fiandaca_

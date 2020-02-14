@@ -4,6 +4,16 @@ linkTitle: "Scaricare kmz in loop da un server arcgis"
 date: 2019-07-28
 description: >
  Scaricare la viabilità storica della Regione Siciliana dal server ArcGIS.
+tags:
+  - CURL
+  - GDAL/OGR
+  - 7z
+  - KML/KMZ
+  - bash
+  - script
+issue: 84
+autore: "Totò Fiandaca"
+chef: ["Andrea Borruso","Totò Fiandaca"]
 ---
 
 * autore: _[Totò Fiandaca](https://twitter.com/totofiandaca?lang=it)_

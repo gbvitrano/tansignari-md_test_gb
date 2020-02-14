@@ -4,6 +4,16 @@ linkTitle: "Come creare una versione Portable di QGIS"
 date: 2020-01-30
 description: >
   Come creare una versione Portable di QGIS 3.x usando la riga di comando.
+tags:
+  - QGIS
+  - bash
+  - sed
+  - curl
+  - 7z
+  - web
+issue: 112
+autore: "Totò Fiandaca"
+chef: "Andrea Borruso"
 ---
 
 - issue correlata: [#112](https://github.com/opendatasicilia/tansignari/issues/112)

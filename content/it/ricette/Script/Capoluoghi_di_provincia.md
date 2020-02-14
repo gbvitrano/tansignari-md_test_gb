@@ -4,6 +4,15 @@ linkTitle: "Capoluoghi di provincia italiani"
 date: 2019-07-21
 description: >
  Creare un dataset che rappresenti i Capoluoghi di provincia italiani in forma puntuale.
+tags:
+  - geonames
+  - wikidata
+  - SPARQL
+  - Miller
+  - SQL
+issue: 64
+autore: "Totò Fiandaca"
+chef: ["Andrea Borruso","Davide Taibi"] 
 ---
 
 * autore: _[Totò Fiandaca](https://twitter.com/totofiandaca?lang=it)_

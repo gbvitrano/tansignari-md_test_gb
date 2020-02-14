@@ -4,6 +4,13 @@ linkTitle: "Come estrarre liste di elementi da una pagina web"
 date: 2019-03-15
 description: >
  Come estrarre liste di elementi da una pagina web come quella di una legge.
+tags:
+  - web
+  - css
+  - shell
+issue: 29
+autore: "Lorenzo Perone"
+chef: "Andrea Borruso"
 ---
 
 - issue correlata: [#29](https://github.com/opendatasicilia/tansignari/issues/29)

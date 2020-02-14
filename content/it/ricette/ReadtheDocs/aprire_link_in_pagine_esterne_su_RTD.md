@@ -4,6 +4,12 @@ linkTitle: "Istruzione da dare su Github per fare aprire su RTD i link in una pa
 date: 2020-02-10
 description: >
  Sui progetti di documentazione esposti su Read the Docs ad un determinato link voglio far aprire la pagina correlata in una pagina diversa da quella che sto leggendo
+tags:
+  - RTD
+  - github
+issue: 116
+autore: "Ciro Spataro"
+chef: "gbvitrano"
 ---
 
 * autore: [Ciro Spataro](https://twitter.com/cirospat)

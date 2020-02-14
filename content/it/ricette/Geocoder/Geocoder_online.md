@@ -4,6 +4,10 @@ linkTitle: "Ottenere coordinate geografiche partendo da indirizzi, elenco"
 date: 2019-03-15
 description: >
   Elenco di servizi online che permettono di ottenere coordinate geografiche partendo da indirizzi.
+tags:
+  - geocoding
+autore: "gbvitrano"
+chef: "gbvitrano"
 ---
 
 

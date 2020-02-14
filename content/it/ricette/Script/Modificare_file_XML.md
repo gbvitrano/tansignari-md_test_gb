@@ -4,6 +4,17 @@ linkTitle: "Modificare un file XML"
 date: 2019-04-18
 description: >
  Come modificare file `qml` (di QGIS) per creare una tematizzazione.
+tags:
+  - QGIS
+  - Python
+  - xmlstarlet
+  - XPATH
+  - Miller
+  - script
+  - XML
+issue: 58
+autore: "Totò Fiandaca"
+chef: ["Giovanni Pirrotta","Andrea Borruso"]
 ---
 
 * autore: _[Totò Fiandaca](https://twitter.com/totofiandaca?lang=it)_

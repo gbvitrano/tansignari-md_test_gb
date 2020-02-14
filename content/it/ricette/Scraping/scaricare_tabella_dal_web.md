@@ -4,6 +4,15 @@ linkTitle: "Scraping tabella da sito web con molte tabelle html"
 date: 2019-07-21
 description: >
  Come scaricare una tabella da un sito web con molte tabelle html.
+tags:
+  - scraping
+  - web
+  - html
+  - bash
+  - curl
+issue: 79
+autore: "Totò Fiandaca"
+chef: ["Andrea Borruso","gbvitrano"]
 ---
 
 * autore: _[Totò Fiandaca](https://twitter.com/totofiandaca?lang=it)_

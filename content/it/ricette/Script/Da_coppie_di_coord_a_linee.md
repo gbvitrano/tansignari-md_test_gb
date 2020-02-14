@@ -4,6 +4,14 @@ linkTitle: "Da coppie di coordinate a linee"
 date: 2019-07-21
 description: >
  Creare linee a partire da coppie di punti.
+tags:
+  - script
+  - bash
+  - GDAL/OGR
+  - CSV
+issue: 46
+autore: "gbvitrano"
+chef: ["Andrea Borruso","Totò Fiandaca"]
 ---
 
 * autore: _[gbvitrano](https://twitter.com/gbvitano?lang=it)_
@@ -16,7 +24,7 @@ description: >
 
 ## script bash
 
-```
+```bash
 ogr2ogr -f geojson -dialect sqlite -sql  \
 "SELECT t.lineID, 
 MakeLine(MakePoint(CAST(t.longitude AS float),CAST(t.latitude AS float),4326)) AS geom 

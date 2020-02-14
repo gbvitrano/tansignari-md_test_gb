@@ -4,6 +4,13 @@ linkTitle: "Gli stili disponibili in T'ansignari"
 date: 2020-02-11
 description: >
   Una guida sugli stili disponibili T'ansignari e come usarli.
+tags:
+  - hugo
+  - docsy
+  - Bootstap 4
+issue: 
+autore: "Andrea Borruso"
+chef: "Andrea Borruso"
 ---
 
 # Introduzione

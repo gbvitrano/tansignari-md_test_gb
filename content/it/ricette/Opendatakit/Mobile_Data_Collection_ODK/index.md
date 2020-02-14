@@ -4,6 +4,13 @@ linkTitle: "Come raccogliere dati geolocalizzatie"
 date: 2019-03-26
 description: >
   Come raccogliere dati geolocalizzati con progetti OPEN.
+tags:
+  - ODK
+  - ona
+  - mappa
+issue: 
+autore: "gbvitrano"
+chef: "gbvitrano"
 ---
 
 * autore: [gbvitrano](https://twitter.com/gbvitrano)

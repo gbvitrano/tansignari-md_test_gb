@@ -8,7 +8,9 @@ tags:
   - bash
   - shell
   - SQLite
+  - query
 autore: "Totò Fiandaca"
+chef: "Andrea Borruso"
 ---
 
 - issue correlata: [#95](https://github.com/opendatasicilia/tansignari/issues/95)

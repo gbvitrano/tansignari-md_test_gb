@@ -1,8 +1,16 @@
+---
 title: "Come chiudere una issue"
 linkTitle: "Come chiudere una issue"
 date: 2020-01-26
 description: >
-  A short lead descripton about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
+  Chiudere una `issue` usando messaggio di commit.
+tags:
+  - git
+  - vs code
+  - github
+issue: 109
+autore: "Totò Fiandaca"
+chef: "Andrea Borruso"
 ---
 
 - issue correlata: `[#109](https://github.com/opendatasicilia/tansignari/issues/109)`

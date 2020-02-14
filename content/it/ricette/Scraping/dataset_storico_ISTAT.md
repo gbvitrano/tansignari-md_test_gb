@@ -4,6 +4,13 @@ linkTitle: "Scraping archivio storico dataset ISTAT"
 date: 2019-06-26
 description: >
  Come scaricare archivi ISTAT in formato `zip`.
+tags:
+  - ISTAT
+  - scraping
+  - bash
+issue: 78
+autore: "Totò Fiandaca"
+chef: "Andrea Borruso"
 ---
 
 * autore: _[Totò Fiandaca](https://twitter.com/totofiandaca?lang=it)_
@@ -57,3 +64,5 @@ xargs -I _ wget _
 ---
 
 Ispirato da questo [tweet](https://twitter.com/napo/status/1144583972422373377) by [@napo](https://twitter.com/napo)
+
+{{< tweet 1144583972422373377 >}}

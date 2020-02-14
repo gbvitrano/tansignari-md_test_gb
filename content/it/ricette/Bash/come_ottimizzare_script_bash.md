@@ -6,6 +6,12 @@ description: >
   Ottimizzazione tramite l'uso delle `variabili`.
 tags:
   - bash
+  - sed
+  - curl
+  - 7z
+issue: 112
+autore: "Totò Fiandaca"
+chef: "Andrea Borruso"
 ---
 
 - issue correlata: [#112](https://github.com/opendatasicilia/tansignari/issues/112) - [#111](https://github.com/opendatasicilia/tansignari/issues/111) - [#110](https://github.com/opendatasicilia/tansignari/issues/110)

@@ -4,6 +4,15 @@ linkTitle: "Append tra due database SQLite"
 date: 2019-04-12
 description: >
  Come aggiungere dati a tabelle di due database sqlite differenti usando uno script.
+tags:
+  - script
+  - bash
+  - SQLite
+  - SpatiaLite
+  - SQL
+issue: 
+autore: "Totò Fiandaca"
+chef: "Andrea Borruso"
 ---
 
 * autore: _[Totò Fiandaca](https://twitter.com/totofiandaca?lang=it)_

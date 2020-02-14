@@ -6,6 +6,11 @@ description: >
  Una espressione regolare è una sequenza di simboli che identifica un insieme di stringhe. Programmi diversi supportano 
  notazioni diverse per esprimere le stesse espressioni regolari, pertanto non esiste una sintassi "universale". Le 
  espressioni regolari possono definire tutti e soli i linguaggi regolari. [Wikipedia](https://it.wikipedia.org/wiki/Espressione_regolare)
+tags:
+  - regex
+issue: 
+autore: "Totò Fiandaca"
+chef: "Andrea Borruso"
 ---
 
 ## Introduzione
