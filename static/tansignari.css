@@ -9,7 +9,10 @@
   flex-direction: row !important;
 }
 
-
 .horizontal {
   display: inline;
+}
+
+.listatag {
+  margin-bottom: 5px;
 }

@@ -53,9 +53,11 @@ anchor = "smart"
 
 [languages]
 [languages.it]
-title = "T’ansignari e t’appeddiri!"
-description = "Cultura della documentazione"
+title = "Tansignari"
+description = "Uno spazio per mettere a fattore comune scambi di conoscenza/esperienza sopratutto su dati aperti, strumenti per elaborarli, Linked Open Data, analisi e trasformazione di dati."
 languageName ="Italiano"
+time_format_default = "02/01/2006"
+time_format_blog = "02/01/2006"
 # Weight used for sorting.
 weight = 1
 #[languages.no]
@@ -171,3 +173,4 @@ no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY
 	url = "https://example.org/mail"
 	icon = "fa fa-envelope"
         desc = "Discuss development issues around the project"
+
