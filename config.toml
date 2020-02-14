@@ -144,7 +144,7 @@ no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
 [[params.links.user]]
 	name = "User mailing list"
-	url = "https://example.org/mail"
+	url = "https://groups.google.com/forum/#!forum/opendatasicilia"
 	icon = "fa fa-envelope"
         desc = "Discussion and help from your fellow users"
 [[params.links.user]]
@@ -153,24 +153,25 @@ no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY
 	icon = "fab fa-twitter"
         desc = "Follow us on Twitter to get the latest news!"
 [[params.links.user]]
-	name = "Stack Overflow"
-	url = "https://example.org/stack"
-	icon = "fab fa-stack-overflow"
-        desc = "Practical questions and curated answers"
-# Developer relevant links. These will show up on right side of footer and in the community page if you have one.
+	name = "Facebook"
+	url = "https://www.facebook.com/groups/opendatasicilia/"
+	icon = "fab fa-facebook-f"
+      desc = "Groups Facebook"
+	  
+[[params.links.developer]]
+	name = "Website"
+	url = "http://opendatasicilia.it/"
+	icon = "fas fa-globe"
+      desc = "opendatasicilia.it"
 [[params.links.developer]]
 	name = "GitHub"
-	url = "https://github.com/google/docsy"
+	url = "https://github.com/opendatasicilia/tansignari-md"
 	icon = "fab fa-github"
         desc = "Development takes place here!"
 [[params.links.developer]]
-	name = "Slack"
-	url = "https://example.org/slack"
-	icon = "fab fa-slack"
-        desc = "Chat with other project developers"
-[[params.links.developer]]
-	name = "Developer mailing list"
-	url = "https://example.org/mail"
-	icon = "fa fa-envelope"
-        desc = "Discuss development issues around the project"
+	name = "Telegram"
+	url = "https://t.me/opendatasicilia."
+	icon = "fab ab fa-telegram-plane"
+      desc = "Groups Telegram"
+
 
