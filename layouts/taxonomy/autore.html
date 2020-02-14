@@ -1,4 +1,4 @@
-<!-- layouts/taxonomy/tag.html -->
+<!-- layouts/taxonomy/autore.html -->
 
 <!doctype html>
 <html lang="{{ .Site.Language.Lang }}" class="no-js">
@@ -17,7 +17,7 @@
         <div class="col">
           <div class="row paddingrow">
             <div class="col-12 nopadding">
-              <h3>Ricette con il tag "{{ .Title }}"</h3>
+              <h3>Le ricette a cura di "{{ .Title }}"</h3>
               <ul>
                 {{ range .Data.Pages }}
                 <li>
@@ -25,7 +25,6 @@
                 </li>
                 {{ end }}
               </ul>
-              <p><a href="/tags">Tutti i tag</a></p>
             </div>
           </div>
         </div>
@@ -35,4 +34,5 @@
   </div>
   {{ partialCached "scripts.html" . }}
 </body>
+
 </html>
