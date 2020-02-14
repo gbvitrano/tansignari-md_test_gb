@@ -2,8 +2,8 @@
 ---
 title: "Indice delle ricette"
 linkTitle: "Ricette"
-weight: 1
+weight: 2
 menu:
   main:
-    weight: 2
+    weight: 3
 ---
