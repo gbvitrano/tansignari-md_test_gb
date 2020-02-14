@@ -4,7 +4,7 @@ linkTitle: Parlano di noi
 type: statico
 menu:
   main:
-    weight: 22
+    weight: 24
 
 ---
 
