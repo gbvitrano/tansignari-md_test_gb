@@ -11,7 +11,7 @@ tags:
   - Join
   - script
 issue: 60
-autore: "Totò Fiandaca"
+autori: ["Totò Fiandaca"]
 chef: "Andrea Borruso"
 ---
 

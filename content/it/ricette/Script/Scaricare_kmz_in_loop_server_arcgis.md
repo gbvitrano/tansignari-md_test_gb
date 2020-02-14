@@ -12,7 +12,7 @@ tags:
   - bash
   - script
 issue: 84
-autore: "Totò Fiandaca"
+autori: ["Totò Fiandaca"]
 chef: ["Andrea Borruso","Totò Fiandaca"]
 ---
 
@@ -22,7 +22,7 @@ chef: ["Andrea Borruso","Totò Fiandaca"]
 
 ---
 
-**Caso d'uso:** Scaricare la viabilità storica della Regione Siciliana dal server arcgis 
+**Caso d'uso:** Scaricare la viabilità storica della Regione Siciliana dal server arcgis
 
 ## Script Bash
 
@@ -54,7 +54,7 @@ done;
 #!/bin/bash
 set -x
 #ciclo for
-for i in *.kmz; 
+for i in *.kmz;
 do
   #crei una variabile che usi per estrarre nome e estensione
   filename=$(basename "$i")
@@ -65,7 +65,7 @@ do
   #un-zippo i KMZ
 	7z e ./$i
   #rinomino i file doc.kml
-	mv ./doc.kml ./"$filename".kml 
+	mv ./doc.kml ./"$filename".kml
   #unisco (merge) i file kml
 	ogr2ogr -f KML -update -append merged.kml ./"$filename".kml -nln merged
 done;
@@ -94,7 +94,7 @@ while [ $DA -lt 900 ]; do
     echo "Il valore di DA è $DA"
   echo "Il valore di A è $A"
   7z e ./toto$DA.kmz
-  mv ./doc.kml ./toto$DA.kml 
+  mv ./doc.kml ./toto$DA.kml
   ogr2ogr -f KML -update -append merged.kml ./toto$DA.kml -nln merged
   let DA=DA+100
   let A=A+100

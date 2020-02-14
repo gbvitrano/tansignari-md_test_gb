@@ -7,7 +7,7 @@ description: >
 tags:
   - RTD
 issue: 106
-autore: "Ciro Spataro"
+autori: ["Ciro Spataro"]
 chef: "Andrea Borruso"
 ---
 
@@ -26,16 +26,16 @@ Può capitare che durante la procedura di compilazione del progetto su **Read th
 
 
 
-## La soluzione 
+## La soluzione
 [Da Read the Docs / Wiping a Build Environment](https://docs.readthedocs.io/en/stable/guides/wipe-environment.html)
 
 A volte capita che le tue build inizino a fallire perché l'ambiente di build in cui viene creata la documentazione è obsoleto o danneggiato.
 
 In uno di questi casi (e molti altri), la soluzione potrebbe essere semplicemente cancellare i file dell'ambiente di build esistente e consentire a Leggi i documenti di crearne uno nuovo.
 
-Seguire questi passaggi per cancellare l'ambiente di compilazione: 
-- Vai alle **“Versioni”** 
-- Fare clic sul pulsante **“Modifica”** della versione che si desidera cancellare sul lato destro della pagina 
+Seguire questi passaggi per cancellare l'ambiente di compilazione:
+- Vai alle **“Versioni”**
+- Fare clic sul pulsante **“Modifica”** della versione che si desidera cancellare sul lato destro della pagina
 - Vai in fondo alla pagina e fai clic sul collegamento di **Wype** (cancellazione), accanto al pulsante **"Salva"**.
 
 **Nota**: Pulendo l'ambiente di creazione della documentazione (attraverso il "Wype"), verranno rimossi tutti i file ``rst``, ``md`` e ``code`` associati ma non la documentazione già creata (file ``HTML`` e ``PDF``). La documentazione sarà ancora online dopo aver cancellato l'ambiente di compilazione.

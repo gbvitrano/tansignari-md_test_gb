@@ -11,7 +11,8 @@ tags:
   - bash
   - curl
 issue: 79
-autore: "Totò Fiandaca"
+autori:
+  - Totò Fiandaca
 chef: ["Andrea Borruso","gbvitrano"]
 ---
 

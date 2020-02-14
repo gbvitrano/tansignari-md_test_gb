@@ -7,7 +7,7 @@ description: >
 tags:
 - Umap
 - mappa
-autore: "gbvitrano"
+autori: ["gbvitrano"]
 chef: "gbvitrano"
 ---
 
@@ -22,7 +22,7 @@ Prendendo spunto dalla domanda posta da [Piersoft](https://twitter.com/Piersoft)
 
 ho fatto un qualche prova veloce, utilizzando sempre il famoso campo  **_umap_options**
 
-## Tematizzare un punto 
+## Tematizzare un punto
 Usando il campo  **_umap_options** che va aggiunto al nostro db, possiamo usare il seguente codice:
 
 ```
@@ -51,11 +51,11 @@ NB: il mio campo **{id}** deve essere sostituito dal campo con i valori da mostr
 
 ![](./Umap/qgis_test.png)
 
-Esportiamo il [geojson](https://it.wikipedia.org/wiki/GeoJSON) da [QGIS](https://www.qgis.org/it/site/) e lo importiamo in [Umap](http://umap.openstreetmap.fr/it/) come si vede dall'immagine il valore del campo **{id}** è esposto nel marker 
+Esportiamo il [geojson](https://it.wikipedia.org/wiki/GeoJSON) da [QGIS](https://www.qgis.org/it/site/) e lo importiamo in [Umap](http://umap.openstreetmap.fr/it/) come si vede dall'immagine il valore del campo **{id}** è esposto nel marker
 
 ![](./Umap/test_umap_punti.png)
 
-in dettaglio 
+in dettaglio
 
 ![](./Umap/umap_punti_dettaglio2.jpg)
 

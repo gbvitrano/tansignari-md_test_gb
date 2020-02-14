@@ -8,7 +8,7 @@ tags:
   - RTD
   - github
 issue: 116
-autore: "Ciro Spataro"
+autori: ["Ciro Spataro"]
 chef: "gbvitrano"
 ---
 
@@ -36,7 +36,7 @@ Se si vogliono forzare tutte le pagine ad aprirsi in una nuova finestra, uno scr
 ```bash
 <!-- Adds target=_blank to external links -->
 <script type="text/javascript">
-   $(document).ready(function () { 
-      $('a[href^="http://"], a[href^="https://"]').not('a[class*=internal]').attr('target', '_blank'); }); 
+   $(document).ready(function () {
+      $('a[href^="http://"], a[href^="https://"]').not('a[class*=internal]').attr('target', '_blank'); });
 </script>
 ```

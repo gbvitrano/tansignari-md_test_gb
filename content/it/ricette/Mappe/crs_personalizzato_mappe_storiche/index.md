@@ -12,7 +12,7 @@ tags:
 - datum
 - georeferenziazione
 issue: 113
-autore: "Totò Fiandaca"
+autori: ["Totò Fiandaca"]
 chef: "Andrea Borruso"
 ---
 
@@ -123,5 +123,5 @@ gdalwarp -r near -order 1 -co COMPRESS=PACKBITS  -t_srs "+proj=longlat +ellps=be
 
 ## Riferimenti
 
-- [**gis.stackexchange**](https://gis.stackexchange.com/questions/349635/setting-proj-parameters-of-old-map) 
+- [**gis.stackexchange**](https://gis.stackexchange.com/questions/349635/setting-proj-parameters-of-old-map)
 - [**Geodetic datums of the Italian cadastral systems**](https://www.researchgate.net/profile/Gabor_Timar/publication/233406023_Geodetic_datums_of_the_Italian_cadastral_systems/links/0fcfd50a4ac50986ef000000/Geodetic-datums-of-the-Italian-cadastral-systems.pdf)

@@ -9,7 +9,7 @@ tags:
   - gsheet
   - google maps
 issue: 36
-autore: "Totò Fiandaca"
+autori: ["Totò Fiandaca"]
 chef: "Totò Fiandaca"
 ---
 

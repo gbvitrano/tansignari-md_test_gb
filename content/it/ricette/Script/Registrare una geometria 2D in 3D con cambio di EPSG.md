@@ -11,7 +11,7 @@ tags:
   - SQL
   - script
 issue: 54
-autore: "Giuseppe Guarino"
+autori: ["Giuseppe Guarino"]
 chef: "Totò Fiandaca"
 ---
 
@@ -27,7 +27,7 @@ Come crare una geo-tabella 3D con EPSG 6708 a partire da uno shapefile 2D import
 
 ## Introduzione
 
-Dopo aver effettuato un rilievo topografico con un GPS differenziale, spesso abbiamo bisogno di convertire le nostre coordinate geografiche espresse in Latitudine e Longitudine, 
+Dopo aver effettuato un rilievo topografico con un GPS differenziale, spesso abbiamo bisogno di convertire le nostre coordinate geografiche espresse in Latitudine e Longitudine,
 in coordintate cartografiche piane.
 
 In questa ricetta effettueremo una conversione con [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index).
@@ -53,7 +53,7 @@ Per effettuare la trasformazione basta copiare e incollare la query qui sotto, a
 * `myTable` (con il nome della tabella/shapefile caricato)
 
 ```sql
-CREATE TABLE "nome_tabella" AS 
+CREATE TABLE "nome_tabella" AS
 SELECT nome, x, y, z, ST_Transform(geom, SRID) AS geom
 FROM "myTable";
 ```
@@ -63,7 +63,7 @@ la query crea una geo-tabella (**nome_tabella**) seguendo la geometria dello sha
 La seguente query effettua la trasformazione:
 
 ```sql
-CREATE TABLE "nome_tabella_new" AS 
+CREATE TABLE "nome_tabella_new" AS
 SELECT nome, x, y, z, makepointz(ST_x(geom), ST_y(geom), cast(z as double),6708) as geom
 FROM "nome_tabella";
 ```

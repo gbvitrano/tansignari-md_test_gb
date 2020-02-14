@@ -9,7 +9,7 @@ tags:
   - scraping
   - bash
 issue: 78
-autore: "Totò Fiandaca"
+autori: ["Totò Fiandaca"]
 chef: "Andrea Borruso"
 ---
 

@@ -11,7 +11,7 @@ tags:
   - SpatiaLite
   - SQL
 issue: 8
-autore: "Totò Fiandaca"
+autori: ["Totò Fiandaca"]
 chef: "Andrea Borruso"
 ---
 
@@ -52,7 +52,7 @@ UPDATE "alberiMonumentali" SET "COMUNE" = TRIM("COMUNE");
 UPDATE "alberiMonumentali" SET "LOCALITÀ" = TRIM("LOCALITÀ");
 
 -- campo PROPOSTA DICHIARAZIONE NOTEVOLE INTERESSE PUBBLICO
-UPDATE "alberiMonumentali" SET "PROPOSTA DICHIARAZIONE NOTEVOLE INTERESSE PUBBLICO" = 
+UPDATE "alberiMonumentali" SET "PROPOSTA DICHIARAZIONE NOTEVOLE INTERESSE PUBBLICO" =
 TRIM("PROPOSTA DICHIARAZIONE NOTEVOLE INTERESSE PUBBLICO");
 
 

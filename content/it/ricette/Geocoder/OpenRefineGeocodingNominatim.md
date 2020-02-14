@@ -10,7 +10,7 @@ tags:
   - latlon
   - OpenRefine
   - nominatim
-autore: "gbvitrano"
+autori: ["gbvitrano"]
 chef: "gbvitrano"
 ---
 

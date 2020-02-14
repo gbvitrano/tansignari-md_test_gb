@@ -8,8 +8,8 @@ tags:
   - ODK
   - ona
   - mappa
-issue: 
-autore: "gbvitrano"
+issue:
+autori: ["gbvitrano"]
 chef: "gbvitrano"
 ---
 
@@ -264,7 +264,7 @@ sheet.getRange(1, 1, csvData.length, csvData[0].length).setValues(csvData);
 ```
 **Attenzione** modificate il nome del foglio di lavoro inserito nello script “dati_ona” con il nome del vostro foglio di lavoro, se il nome del foglio di lavoro inserito nello script non esiste, lo script non si avvia e vi restituisce un errore.
 
-### Come attivare lo script…? 
+### Come attivare lo script…?
 Si attiva semplicemente cliccando su **esegui** (icona play), la prima volta che lo eseguite vi chiederà l’autorizzazione, verrà visualizzato il messaggio che l’applicazione non è autenticata, non è  sicura etc etc…per bypassare tutto questo, cliccare su **applicazione avanzate** e confermare i permessi per poter lavorare…
 
 ![](img/google/google_sheet5.png)
@@ -305,7 +305,7 @@ Noi di [OpenDataSicilia.it](http://opendatasicilia.it/) abbiamo pensato di usare
 
 ![](img/odk_ona/demo_01.png)
 
-Demo per un progetto di raccolta dati (georeferenziati) sul terreno, per progetti di ricerca o di pubblica utilità, con il coinvolgimento attivo da parte dei cittadini. 
+Demo per un progetto di raccolta dati (georeferenziati) sul terreno, per progetti di ricerca o di pubblica utilità, con il coinvolgimento attivo da parte dei cittadini.
 
 ![](img/odk_ona/demo_02.png)
 

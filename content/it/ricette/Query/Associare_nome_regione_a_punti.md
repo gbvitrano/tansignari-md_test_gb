@@ -9,8 +9,8 @@ tags:
   - query
   - mapshaper
   - ISTAT
-issue: 
-autore: "Totò Fiandaca"
+issue:
+autori: ["Totò Fiandaca"]
 chef: "Andrea Borruso"
 ---
 
@@ -32,8 +32,8 @@ CREATE TABLE opendemanio_3857_reg AS
 SELECT a.*, r.DEN_REG
 FROM opendemanio_3857 a, regioni_3857 r
 WHERE ST_Intersects(a.geometry,r.geometry)
-AND a.rowid IN (SELECT rowid 
-			FROM SpatialIndex 
+AND a.rowid IN (SELECT rowid
+			FROM SpatialIndex
 			WHERE f_table_name = 'opendemanio_3857' AND search_frame = r.geometry);
 ```
 

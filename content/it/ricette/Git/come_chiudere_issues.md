@@ -9,14 +9,14 @@ tags:
   - vs code
   - github
 issue: 109
-autore: "Totò Fiandaca"
+autori: ["Totò Fiandaca"]
 chef: "Andrea Borruso"
 ---
 
 - issue correlata: `[#109](https://github.com/opendatasicilia/tansignari/issues/109)`
 - autore:  _[Totò Fiandaca](https://twitter.com/totofiandaca?lang=it)_ fornitore ricetta [Andrea Borruso](https://twitter.com/aborruso)
 - ingredienti: [git](https://it.wikipedia.org/wiki/Git_(software))
-  
+
 ---
 
 Per chiudere una issue è possibile seguire due vie:

@@ -9,12 +9,12 @@ tags:
   - babum
   - GDAL/OGR
 issue: 29
-autore: "Lorenzo Perone"
+autori: ["Lorenzo Perone"]
 chef: "Andrea Borruso"
 ---
 
 - issue correlata: [#29](https://github.com/opendatasicilia/tansignari/issues/29)
-- autore: [Lorenzo Perone](https://github.com/lorenzoperone); fornitore della ricetta: [Andrea Borruso](https://github.com/aborruso); 
+- autore: [Lorenzo Perone](https://github.com/lorenzoperone); fornitore della ricetta: [Andrea Borruso](https://github.com/aborruso);
 ---
 
 ![image](https://raw.githubusercontent.com/babun/babun.github.io/master/images/screenshots/screen_vim.png)
@@ -30,13 +30,13 @@ Utilizzeremo **[Babun](http://babun.github.io/)** un progetto che purtroppo da p
    -  nella cartella degli script é presente anche lo
  script **update.bat* utile per l'aggiornamento dei pacchetti installati.
 
-Babun scrive, in fase di installazione, nella variabile $PATH dell'utente il proprio percorso di installazione, quindi è possibile lanciarlo anche da un promt dei comandi (shell) digitando 
+Babun scrive, in fase di installazione, nella variabile $PATH dell'utente il proprio percorso di installazione, quindi è possibile lanciarlo anche da un promt dei comandi (shell) digitando
 
 ```
 babun
 ```
 
-Per installare dei **pacchetti** non presenti nel sistema è possibile usare il suo comodo installer, ad esempio per installare le librerie ed eseguibili **gdal** digito 
+Per installare dei **pacchetti** non presenti nel sistema è possibile usare il suo comodo installer, ad esempio per installare le librerie ed eseguibili **gdal** digito
 
 ```
 pact install gdal

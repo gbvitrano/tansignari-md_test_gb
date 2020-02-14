@@ -8,8 +8,8 @@ tags:
   - OSM
   - Overpass turbo
   - api
-issue: 
-autore: "Gabriele Francescotto"
+issue:
+autori: ["Gabriele Francescotto"]
 ---
 
 

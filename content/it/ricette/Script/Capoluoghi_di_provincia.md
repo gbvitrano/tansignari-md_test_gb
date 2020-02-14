@@ -11,8 +11,8 @@ tags:
   - Miller
   - SQL
 issue: 64
-autore: "Totò Fiandaca"
-chef: ["Andrea Borruso","Davide Taibi"] 
+autori: ["Totò Fiandaca"]
+chef: ["Andrea Borruso","Davide Taibi"]
 ---
 
 * autore: _[Totò Fiandaca](https://twitter.com/totofiandaca?lang=it)_

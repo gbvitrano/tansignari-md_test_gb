@@ -13,7 +13,7 @@ tags:
   - script
   - yq
 issue: 84
-autore: "gbvitrano"
+autori: ["gbvitrano"]
 chef: "Andrea Borruso"
 ---
 
@@ -33,10 +33,10 @@ N. B.: Il server remoto può essere un semplice **[server ftp](https://it.wikipe
 
 Ricordiamoci prima i caricare i dati, di settare le **[impostazioni del foglio di lavoro](https://support.google.com/docs/answer/58515?co=GENIE.Platform%3DDesktop&hl=it)**, dal menu **File**, nella scheda *Generale* selezionare **Regno Unito** per le Impostazioni internazionali e spuntare **Usa sempre nomi di funzioni inglesi**, nella scheda *Calcolo* selezionare **A ogni modifica** nelle impostazioni del Ricalcolo.
 
-**N.B.** La sintassi della funzione [IMPORTXML](https://support.google.com/docs/answer/3093342?hl=it) dipende dalle impostazioni del **[impostazioni del foglio di lavoro](https://support.google.com/docs/answer/58515?co=GENIE.Platform%3DDesktop&hl=it)** 
+**N.B.** La sintassi della funzione [IMPORTXML](https://support.google.com/docs/answer/3093342?hl=it) dipende dalle impostazioni del **[impostazioni del foglio di lavoro](https://support.google.com/docs/answer/58515?co=GENIE.Platform%3DDesktop&hl=it)**
 
 **Esempio**:
-* in italiano il separatore degli argomenti della formula è il **;** (punto e virgola) 
+* in italiano il separatore degli argomenti della formula è il **;** (punto e virgola)
 * in inglese è la **,** (virgola)
 
 Sintassi per foglio di lavoro in **Italiano**
@@ -130,7 +130,7 @@ Dove:
 
 descrizioni tratte dalla guida di [libreoffice](https://help.libreoffice.org/Calc/WEBSERVICE/it)
 
-**Esempio di utilizzo** 
+**Esempio di utilizzo**
 
 ```
 FILTRO.XML(SERVIZIO.WEB("http://gbvitrano.it/clip/umap/tema.xml"); "//category/@symbol")

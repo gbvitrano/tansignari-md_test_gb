@@ -6,7 +6,7 @@ description: >
   Elenco di servizi online che permettono di ottenere coordinate geografiche partendo da indirizzi.
 tags:
   - geocoding
-autore: "gbvitrano"
+autori: ["gbvitrano"]
 chef: "gbvitrano"
 ---
 

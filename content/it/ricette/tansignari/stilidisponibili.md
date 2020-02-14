@@ -8,8 +8,8 @@ tags:
   - hugo
   - docsy
   - Bootstap 4
-issue: 
-autore: "Andrea Borruso"
+issue:
+autori: ["Andrea Borruso"]
 chef: "Andrea Borruso"
 ---
 

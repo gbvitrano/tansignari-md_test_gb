@@ -12,14 +12,14 @@ tags:
   - 7z
   - web
 issue: 112
-autore: "Totò Fiandaca"
+autori: ["Totò Fiandaca"]
 chef: "Andrea Borruso"
 ---
 
 - issue correlata: [#112](https://github.com/opendatasicilia/tansignari/issues/112)
 - autore:  _[Totò Fiandaca](https://twitter.com/totofiandaca?lang=it)_ fornitore ricetta [Andrea Borruso](https://twitter.com/aborruso)
 - ingredienti: [QGIS](https://qgis.org/it/site/), [bash](https://it.wikipedia.org/wiki/Bash), [sed](https://it.wikipedia.org/wiki/Sed_(Unix)), [7z](https://manpages.debian.org/jessie/p7zip-full/7za.1.en.html), [curl](https://curl.haxx.se/)
-  
+
 ---
 
 ## Che cosa è una versione Portable
@@ -33,7 +33,7 @@ Per chiudere una issue è possibile seguire due vie:
 2. scaricare il file [script.sh](https://github.com/pigreco/QGIS_portable_3x/blob/master/script.sh) all'interno della cartella appena creata al punto 1;
 3. avviare Bash e digitare `chmod +x ./script.sh` per i permessi e poi `./script.sh`;
 4. unzippare la cartella `OSGeo4W-xxxx.7z` e avviare il file `qgis-ltr.bat` presente in `/OSGeo4W/bin`.
-   
+
    **PS:** nello script scarico la `QGIS-OSGeo4W-3.4.15-1-Setup-x86_64.exe` e i file `msvcp100.dll` e `msvcr100.dll` versione a 64 bit!!!
 
 ## Script bash

@@ -13,7 +13,7 @@ tags:
   - script
   - XML
 issue: 58
-autore: "Totò Fiandaca"
+autori: ["Totò Fiandaca"]
 chef: ["Giovanni Pirrotta","Andrea Borruso"]
 ---
 

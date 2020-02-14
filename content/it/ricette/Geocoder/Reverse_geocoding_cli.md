@@ -9,7 +9,7 @@ tags:
   - riga di comando
   - nominatim
 issue: 38
-autore: "Totò Fiandaca"
+autori: ["Totò Fiandaca"]
 chef: "Andrea Borruso"
 ---
 

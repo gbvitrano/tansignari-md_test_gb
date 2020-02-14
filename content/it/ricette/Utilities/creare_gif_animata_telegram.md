@@ -9,14 +9,14 @@ tags:
   - Telegram
   - gif
 issue: 107
-autore: "Andrea Borruso"
+autori: ["Andrea Borruso"]
 chef: "Andrea Borruso"
 ---
 
 - issue correlata: `[#107](https://github.com/opendatasicilia/tansignari/issues/107)`
 - autore: `[Andrea Borruso](https://twitter.com/aborruso)`;
 - ingredienti: [ffmpeg](https://www.ffmpeg.org/)
-  
+
 ---
 
 Questa ricetta nasce perché se si fa l'**upload** diretto di una GIF animata su Telegram, questa perde in qualità e diventa poco leggibile; sopratutto dopo lo zoom.

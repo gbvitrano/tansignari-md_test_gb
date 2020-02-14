@@ -8,8 +8,8 @@ tags:
   - hugo
   - docsy
   - shortcodes
-issue: 
-autore: "Andrea Borruso"
+issue:
+autori: ["Andrea Borruso"]
 chef: "Andrea Borruso"
 ---
 

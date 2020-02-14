@@ -14,7 +14,7 @@ tags:
   - Miller
   - XPATH
 issue: 50
-autore: "Totò Fiandaca"
+autori: ["Totò Fiandaca"]
 chef: "Andrea Borruso"
 ---
 

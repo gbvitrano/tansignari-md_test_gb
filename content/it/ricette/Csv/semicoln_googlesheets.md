@@ -8,7 +8,7 @@ tags:
   - csv
   - gsheet
 issue: 89
-autore: "gbvitrano"
+autori: ["gbvitrano"]
 chef: "gbvitrano"
 ---
 
@@ -33,13 +33,13 @@ Con la sintassi di base...
 
 `=IMPORTDATA("https://opendata.comune.palermo.it/ws.php?id=1905&fmt=csv")`
 
-... otteniamo questo risultato 
+... otteniamo questo risultato
 
 ![](https://user-images.githubusercontent.com/20488693/63928050-32803180-ca4f-11e9-84ea-56568ff8decb.png)
 
 Per far caricare correttamente il file occorre specificare nella formula che il separatore di campo è **semicolon** (**;**)
 
-Qui la nuova sintassi della formula: 
+Qui la nuova sintassi della formula:
 
 **IMPORTDATA("url", ";")**
 

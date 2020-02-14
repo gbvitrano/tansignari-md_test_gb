@@ -9,12 +9,12 @@ tags:
   - css
   - shell
 issue: 29
-autore: "Lorenzo Perone"
+autori: ["Lorenzo Perone"]
 chef: "Andrea Borruso"
 ---
 
 - issue correlata: [#29](https://github.com/opendatasicilia/tansignari/issues/29)
-- autore: [Lorenzo Perone](https://github.com/lorenzoperone); fornitore della ricetta: [Andrea Borruso](https://github.com/aborruso); 
+- autore: [Lorenzo Perone](https://github.com/lorenzoperone); fornitore della ricetta: [Andrea Borruso](https://github.com/aborruso);
 ---
 
 ![image](./demetra_articolo.png)
@@ -42,7 +42,7 @@ Ora analizziamo la pagina web con Google Chrome ed utilizziamo il tasto destro d
 
 ![ispeziona articolo](./ispeziona_articolo.png)
 
-selezionando **Ispeziona** si aprirà l'interfaccia sviluppatore di Chrome 
+selezionando **Ispeziona** si aprirà l'interfaccia sviluppatore di Chrome
 
 ![intefaccia ispeziona articolo](./ispeziona_articolo_interfaccia.png)
 
@@ -65,7 +65,7 @@ Per estrarre gli elementi individuati sopra si possono scrivere due **query xpat
 //div[@class="articolo_rubrica"]/text():
 ```
 
-Con gli elementi che abbiamo individuato siamo pronti per poter estrarre i dati, iniziamo con lo scaricare la pagina web che ci interessa, nel nostro esempio l'url è il seguente 
+Con gli elementi che abbiamo individuato siamo pronti per poter estrarre i dati, iniziamo con lo scaricare la pagina web che ci interessa, nel nostro esempio l'url è il seguente
 
 ```
 https://demetra.regione.emilia-romagna.it/al/articolo?urn=er%3Aassemblealegislativa%3Alegge%3A2005%3B13&dl_t=text%2Fxml&dl_a=y&dl_id=10&pr=idx%2C0%3Bartic%2C0%3Barticparziale%2C1&anc=tit1&fbclid=IwAR0Lcn8E89VosOWln-amBDx5N8rW1WiOsKjcBFv_7TjD7YsbJhWz0UtqUHk
@@ -82,7 +82,7 @@ verrà creato un file locale chiamato **pagina.html** che contiene il codice **h
 ```
 <./pagina.html scrape -e '//div[@class="articolo_rubrica"]/text()' | tr "\t" "\n" >./
 ```
-questo comando estre i **titoli** e sostituisce il **tab** di output con "**a capo**", ora digitiamo 
+questo comando estre i **titoli** e sostituisce il **tab** di output con "**a capo**", ora digitiamo
 
 ```
 <./pagina scrape -e '//div[@class="articolo"]/text()' | tr "\t" "\n" >./articoli

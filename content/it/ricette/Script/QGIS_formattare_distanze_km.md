@@ -8,7 +8,7 @@ tags:
   - QGIS
   - HfcQGIS
 issue: 59
-autore: "Agostino Ficco"
+autori: ["Agostino Ficco"]
 chef: "Totò Fiandaca"
 ---
 
@@ -23,10 +23,10 @@ chef: "Totò Fiandaca"
 ## espressione
 
 ```
-CASE 
-WHEN  "prog" <10  THEN '0+00' ||"prog"  
-WHEN  "prog" <100  THEN '0+0' ||"prog" 
-WHEN  "prog" <1000  THEN '0+' ||"prog" 
+CASE
+WHEN  "prog" <10  THEN '0+00' ||"prog"
+WHEN  "prog" <100  THEN '0+0' ||"prog"
+WHEN  "prog" <1000  THEN '0+' ||"prog"
 WHEN  "prog" <10000  THEN left( "prog",1)||'+'|| right( "prog" ,3)
 WHEN  "prog" <100000  THEN left( "prog",2)||'+'|| right( "prog" ,3)
 WHEN  "prog" <1000000  THEN left( "prog",3)||'+'|| right( "prog" ,3)

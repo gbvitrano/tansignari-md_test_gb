@@ -14,7 +14,7 @@ tags:
   - QML
   - GIMP
 issue: 63
-autore: "Totò Fiandaca"
+autori: ["Totò Fiandaca"]
 chef: "Andrea Borruso"
 ---
 
@@ -55,7 +55,7 @@ DOVE:
 - `out_regioni_xpath.tsv`, file di input per lo script
 - `legenda.gpl` file di output dello script
 - `cut -o -f 2,3` , per estrarre in ordine il campo 2 e 3
-- `then label rgba,regione` , per rinominarli 
+- `then label rgba,regione` , per rinominarli
 - `then nest --explode --values --across-fields -f rgba --nested-fs ","` , per trasformare il campo rgba in 4 campi
 - `then cut -x -f rgba_4` , per rimuovere il campo con il IV valore di colore
 - `then put -S 'if ($rgba_1=~"^.{2}$") {$rgba_1=" ".$rgba_1};if ($rgba_2=~"^.{2}$") {$rgba_2=" ".$rgba_2};if ($rgba_3=~"^.{2}$") {$rgba_3=" ".$rgba_3}'` , per fare in modo che i valori numerici di due caratteri, siano trasformati in spazio seguito dai due caratteri
@@ -414,9 +414,9 @@ rm out_regioni_xpath.tsv
 ### output
 
 ```
-GIMP Palette 
-Name: QGIS Palette 
-Columns: 4 
+GIMP Palette
+Name: QGIS Palette
+Columns: 4
 #
 232 193  76	Abruzzo
  48 218 227	Basilicata

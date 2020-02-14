@@ -9,7 +9,7 @@ tags:
   - shell
   - SQLite
   - query
-autore: "Totò Fiandaca"
+autori: ["Totò Fiandaca"]
 chef: "Andrea Borruso"
 ---
 

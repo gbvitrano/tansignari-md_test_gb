@@ -10,12 +10,12 @@ tags:
   - html
   - feed43
 issue: 5
-autore: "Ciro Spataro"
+autori: ["Ciro Spataro"]
 chef: "Andrea Borruso"
 ---
 
 - issue correlata: [#5](https://github.com/opendatasicilia/tansignari/issues/5)
-- autore: [Ciro Spataro](https://github.com/cirospat); fornitore della ricetta: [Andrea Borruso](https://github.com/aborruso); 
+- autore: [Ciro Spataro](https://github.com/cirospat); fornitore della ricetta: [Andrea Borruso](https://github.com/aborruso);
 ---
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/40px-Feed-icon.svg.png)

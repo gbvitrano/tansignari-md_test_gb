@@ -10,7 +10,7 @@ tags:
 - SpatiaLite
 - NTv2
 issue: 100
-autore: "Totò Fiandaca"
+autori: ["Totò Fiandaca"]
 chef: "Andrea Borruso"
 ---
 

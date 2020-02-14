@@ -7,13 +7,13 @@ description: >
 tags:
 - uMap
 - mappa
-autore: "gbvitrano"
+autori: ["gbvitrano"]
 chef: "gbvitrano"
 ---
 
 * autore: [gbvitrano](https://twitter.com/gbvitrano)
 * issue:
- 
+
 [uMap](http://umap.openstreetmap.fr/it/) è un software potentissimo per la creazione di mappe online, da inserire nel proprio sito, che fanno uso di [OpenStreetMap](http://osm.org/) come sfondo.
 Il software è creato dall’italo-francese [Yohan Boniface](http://yohanboniface.me/), rilasciato in open source con la licenza “[do what the fuck you want to public license](https://github.com/yohanboniface/uMap)“, scritto in [django](https://www.djangoproject.com/) e [leaflet](http://leafletjs.com/), e reso disponibile sugli spazi di [OpenStreetMap France](http://www.openstreetmap.fr/) – http://umap.openstreetmap.fr. (cit. [da de.straba.us](http://de.straba.us/2015/05/22/tutorial-creare-una-mappa-online-con-fotografie-in-umap-aggiornabile-con-ethercalc/))
 
@@ -90,7 +90,7 @@ Come per il precedente metodo dobbiamo rendere il file editabile, aprire il Calc
 Visto che la tematizzazione del layer è stata fatta utilizzando il campo **VULN** con il metodo **[Graduato](https://docs.qgis.org/2.18/it/docs/user_manual/working_with_vector/vector_properties.html#graduated-renderer)**, che permette di suddividere i dati di una data colonna in un certo numero di classi e quindi scegliere uno stile differente per ciascuna classe, [@totofiandaca](https://twitter.com/totofiandaca) ha scritto l'espressione, in basso a seguire, da usare nel Calcolatore di Campi, per popolare velocemente il campo _umap_options, secondo le nostre classi. (grazie Totò)
 
 ```
-CASE 
+CASE
  WHEN "VULN" >= 1.12 AND "VULN" <= 1.42 THEN '{ "fillColor": "#0571b0", "color": "Black", "weight": "1", "opacity": "1", "fillOpacity": "0.75" }'
  WHEN "VULN" > 1.42 AND "VULN" <= 1.60 THEN '{ "fillColor": "#92c5de", "color": "Black", "weight": "1", "opacity": "1", "fillOpacity": "0.75" }'
  WHEN "VULN" > 1.60 AND "VULN" <= 1.72 THEN '{ "fillColor": "#fff0bd", "color": "Black", "weight": "1", "opacity": "1", "fillOpacity": "0.75" }'

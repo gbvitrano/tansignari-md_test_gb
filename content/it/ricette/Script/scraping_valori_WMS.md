@@ -12,7 +12,7 @@ tags:
   - latlon
   - draping
 issue: 44
-autore: "Totò Fiandaca"
+autori: ["Totò Fiandaca"]
 chef: "Andrea Borruso"
 ---
 

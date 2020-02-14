@@ -9,11 +9,11 @@ tags:
   - RTD
   - github
 issue: 106
-autore: "Ciro Spataro"
+autori: ["Ciro Spataro"]
 chef: "Andrea Borruso"
 ---
 
-## Come fare leggere un file in formato .MD a ReadtheDocs (in un progetto su Github) 
+## Come fare leggere un file in formato .MD a ReadtheDocs (in un progetto su Github)
 
 
 * autore: [Ciro Spataro](https://twitter.com/cirospat)
@@ -33,10 +33,10 @@ Bisogna guardare questi due file `requirements.txt` e `conf.py` sul progetto osp
 
 `requirements.txt` è il file che contiene i requisiti dei moduli da installare. Vedi ad esempio: https://github.com/opendatasicilia/tansignari/blob/master/requirements.txt. Bisogna inserire queste istruzioni di seguito elencate nel file:
 ```bash
-sphinx-rtd-theme 
-sphinx 
-recommonmark 
-markdown  
+sphinx-rtd-theme
+sphinx
+recommonmark
+markdown
 sphinx-markdown-tables
 ```
 
@@ -64,7 +64,7 @@ Bisogna inserire queste righe di codice nel file `conf.py`.
 
 ---
 
-### Se il progetto su Read the Docs non dovesse compilare 
+### Se il progetto su Read the Docs non dovesse compilare
 In questo periodo (gennaio 2020) c'è un bug, seguire la procedura illustrata di seguito per permettere a Read the Docs di compilare il progetto ospitato su Github.
 
 A questo link [https://docs.readthedocs.io/en/stable/guides/wipe-environment.html](https://docs.readthedocs.io/en/stable/guides/wipe-environment.html) viene spiegato come agire in maniera semplice.

@@ -10,7 +10,7 @@ tags:
   - GDAL/OGR
   - CSV
 issue: 46
-autore: "gbvitrano"
+autori: ["gbvitrano"]
 chef: ["Andrea Borruso","Totò Fiandaca"]
 ---
 
@@ -26,9 +26,9 @@ chef: ["Andrea Borruso","Totò Fiandaca"]
 
 ```bash
 ogr2ogr -f geojson -dialect sqlite -sql  \
-"SELECT t.lineID, 
-MakeLine(MakePoint(CAST(t.longitude AS float),CAST(t.latitude AS float),4326)) AS geom 
-FROM (SELECT * FROM lineegb ORDER BY CAST(lineID AS integer), 
+"SELECT t.lineID,
+MakeLine(MakePoint(CAST(t.longitude AS float),CAST(t.latitude AS float),4326)) AS geom
+FROM (SELECT * FROM lineegb ORDER BY CAST(lineID AS integer),
 CAST(point AS integer)) t GROUP BY 1" lineCTgb_asc.geojson lineegb.csv
 ```
 

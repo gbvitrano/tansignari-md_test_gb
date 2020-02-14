@@ -9,7 +9,7 @@ tags:
   - script
   - trigger
 issue: 25
-autore: "gbvitrano"
+autori: ["gbvitrano"]
 chef: "Andrea Borruso"
 ---
 
@@ -38,7 +38,7 @@ Dal menù **strumenti** (1) cliccare su **Editor di script** (2)
 **Attenzione** modificate il nome del foglio di lavoro inserito nello script "**NOME FOGLIO DI LAVORO**" con il nome del vostro foglio di lavoro, se il nome del foglio di lavoro inserito nello script non esiste, lo script non si avvia e vi restituisce un errore.
 
 ```
-function importData() 
+function importData()
 {
 // ATTENZIONE "NOME FOGLIO DI LAVORO" è il nome del foglio di lavoro dove verranno caricati i dati
 
@@ -49,8 +49,8 @@ var csvData = Utilities.parseCsv(csvContent);
 var sheet = SpreadsheetApp.getActive().getSheetByName(‘NOME FOGLIO DI LAVORO’)
 sheet.getRange(1, 1, csvData.length, csvData[0].length).setValues(csvData);
 }
-``` 
-## Come attivare lo script…? 
+```
+## Come attivare lo script…?
 Si attiva semplicemente cliccando su **esegui** (icona play), la prima volta che lo eseguite vi chiederà l’autorizzazione, verrà visualizzato il messaggio che l’applicazione non è autenticata, non è sicura etc etc… per bypassare tutto questo, cliccare su applicazione avanzate e confermare i permessi per poter lavorare…
 
 ![](/img/google/google_sheet13.png)

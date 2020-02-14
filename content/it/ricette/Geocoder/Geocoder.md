@@ -8,7 +8,7 @@ tags:
   - geocoding
   - gsheet
   - nominatim
-autore: "gbvitrano"
+autori: ["gbvitrano"]
 chef: "gbvitrano"
 ---
 
