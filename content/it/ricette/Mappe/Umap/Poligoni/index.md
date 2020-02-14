@@ -4,6 +4,10 @@ linkTitle: "uMap - Tematizzare i poligoni"
 date: 2019-06-14
 description: >
   Trucco per tematizzare poligoni in `uMap`.
+tags:
+- uMap
+- mappe
+autore: "gbvitrano"
 ---
 
 * autore: [gbvitrano](https://twitter.com/gbvitrano)

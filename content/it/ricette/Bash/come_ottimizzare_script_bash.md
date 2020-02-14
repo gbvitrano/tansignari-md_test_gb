@@ -4,12 +4,14 @@ linkTitle: "Come ottimizzare uno script bash"
 date: 2020-01-30
 description: >
   Ottimizzazione tramite l'uso delle `variabili`.
+tags:
+  - bash
 ---
 
 - issue correlata: [#112](https://github.com/opendatasicilia/tansignari/issues/112) - [#111](https://github.com/opendatasicilia/tansignari/issues/111) - [#110](https://github.com/opendatasicilia/tansignari/issues/110)
 - autore:  _[Totò Fiandaca](https://twitter.com/totofiandaca?lang=it)_ fornitore ricetta [Andrea Borruso](https://twitter.com/aborruso)
 - ingredienti: [bash](https://it.wikipedia.org/wiki/Bash), [sed](https://it.wikipedia.org/wiki/Sed_(Unix)), [7z](https://manpages.debian.org/jessie/p7zip-full/7za.1.en.html), [curl](https://curl.haxx.se/)
-  
+
 ## Introduzione
 
 Per realizzare le versioni Portable di QGIS è stato usato il seguente [script bash](https://github.com/pigreco/QGIS_portable_3x/blob/master/script.sh)

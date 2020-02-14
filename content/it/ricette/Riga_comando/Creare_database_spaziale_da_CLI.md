@@ -4,6 +4,9 @@ linkTitle: "Creare database spaziale da riga di comando"
 date: 2019-03-07
 description: >
   Crea un database SpatiaLite con geotabella partendo da un file CSV con coordinate..
+tags:
+- sqlite
+- spatialite
 ---
 
 - issue correlata: [#15](https://github.com/opendatasicilia/tansignari/issues/15)

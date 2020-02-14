@@ -58,4 +58,3 @@ hugo server
 ```
 
 --
-[![Netlify Status](https://api.netlify.com/api/v1/badges/39e6efe2-3891-4377-8ed0-2cbba3129ac3/deploy-status)](https://app.netlify.com/sites/tansignari-md-test-gb/deploys)

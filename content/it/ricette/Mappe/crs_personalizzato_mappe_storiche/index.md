@@ -4,10 +4,19 @@ linkTitle: "Come creare un Sistema di Riferimento personalizzato: un esempio con
 date: 2019-01-05
 description: >
   Creare SR personalizzato per proiezione `Lambert` e `coordinate geografiche`.
+tags:
+- PROJ
+- GDAL
+- CRS
+- mappe
+- datum
+- georeferenziazione
+cuoco: "Totò Fiandaca"
+chef: "Andrea Borruso"
 ---
 
 - issue correlata: [#113](https://github.com/opendatasicilia/tansignari/issues/113)
-- autore: [Totò Fiandaca](https://twitter.com/totofiandaca); fornitore della ricetta: [Andrea Borruso](https://github.com/aborruso);
+- cuoco: [Totò Fiandaca](https://twitter.com/totofiandaca); chef: [Andrea Borruso](https://github.com/aborruso);
 - ingredienti: [PROJ](https://proj.org/about.html), [GDAL](https://gdal.org/)
 
 ## Introduzione
@@ -52,7 +61,7 @@ Scale Factor : 0.998992911                 →    +k_0=0.998992911
 
 Occorre tenere conto anche del **datum**: quello di **Monte Mario** basato su Hayford (International 1909) è stato adottato nel 1940, ma queste mappe sono basate sull'ellissoide di **Bessel** e bisogna applicare quindi i parametri di trasformazione legati a quest'ultimo.
 
-Un riferimento bibliografico prezioso, per applicare i parametri di trasformazione correlati a questo caso è: <https://www.researchgate.net/profile/Gabor_Timar/publication/233406023_Geodetic_datums_of_the_Italian_cadastral_systems/links/0fcfd50a4ac50986ef000000/Geodetic-datums-of-the-Italian-cadastral-systems.pdf>
+Un riferimento bibliografico prezioso, per applicare i parametri di trasformazione correlati a questo caso è [qui]( https://www.researchgate.net/profile/Gabor_Timar/publication/233406023_Geodetic_datums_of_the_Italian_cadastral_systems/links/0fcfd50a4ac50986ef000000/Geodetic-datums-of-the-Italian-cadastral-systems.pdf)
 
 I parametri "generici" per l'Italia sono:
 

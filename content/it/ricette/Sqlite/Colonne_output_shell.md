@@ -4,12 +4,17 @@ linkTitle: "Come visualizzare a colonne l'output di una query nella shell"
 date: 2019-11-19
 description: >
     Come visualizzare a colonne l'output di una query nella shell.
+tags:
+  - bash
+  - shell
+  - SQLite
+autore: "Totò Fiandaca"
 ---
 
 - issue correlata: [#95](https://github.com/opendatasicilia/tansignari/issues/95)
 - autore: _[Totò Fiandaca](https://twitter.com/totofiandaca?lang=it)_; fornitore ricetta: *[Andrea Borruso](https://twitter.com/aborruso?lang=it)*;
 - ingredienti: [Shell](https://it.wikipedia.org/wiki/Shell_(informatica)), [Bash](https://it.wikipedia.org/wiki/Bash), [SQLite](https://www.sqlite.org/index.html)
-  
+
 ---
 
 ## formato output di default

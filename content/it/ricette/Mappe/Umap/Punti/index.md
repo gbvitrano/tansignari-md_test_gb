@@ -4,6 +4,10 @@ linkTitle: "uMap - Tematizzare i punti"
 date: 2019-08-12
 description: >
   Trucco per tematizzare i punti in `uMap`.
+tags:
+- Umap
+- mappe
+autore: "gbvitrano"
 ---
 
 * autore: [gbvitrano](https://twitter.com/gbvitrano)

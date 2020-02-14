@@ -4,6 +4,12 @@ linkTitle: "QGIS e i grigliati NTv2 per l'Italia"
 date: 2020-02-10
 description: >
   Utili per il passaggio tra `Datum` e per raggiungere precisioni `submetriche`.
+tags:
+- QGIS
+- SQL
+- SpatiaLite
+- NTv2
+autore: "Totò Fiandaca"
 ---
 
 - issue correlata: [#100](https://github.com/opendatasicilia/tansignari/issues/100)
