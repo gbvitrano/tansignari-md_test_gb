@@ -53,7 +53,7 @@ anchor = "smart"
 
 [languages]
 [languages.it]
-title = "Tansignari"
+title = "T’ansignari e t’appeddiri!"
 description = "Uno spazio per mettere a fattore comune scambi di conoscenza/esperienza sopratutto su dati aperti, strumenti per elaborarli, Linked Open Data, analisi e trasformazione di dati."
 languageName ="Italiano"
 time_format_default = "02/01/2006"
