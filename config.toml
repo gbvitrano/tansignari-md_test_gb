@@ -18,6 +18,10 @@ enableMissingTranslationPlaceholders = true
 
 #disableKinds = ["taxonomy", "taxonomyTerm"]
 
+[taxonomies]
+  autore = "autori"
+  tag = "tags"
+
 # Highlighting config
 pygmentsCodeFences = true
 pygmentsUseClasses = false
