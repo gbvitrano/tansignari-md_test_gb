@@ -54,7 +54,7 @@ anchor = "smart"
 [languages]
 [languages.it]
 title = "T’ansignari e t’appeddiri!"
-description = "Ti devo insegnare a fare qualcosa e ti devo perdere | Cultura della documentazione"
+description = "Cultura della documentazione"
 languageName ="Italiano"
 # Weight used for sorting.
 weight = 1
