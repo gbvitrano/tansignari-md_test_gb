@@ -1,4 +1,3 @@
-
 ---
 title: "Indice delle ricette"
 linkTitle: "Ricette"
