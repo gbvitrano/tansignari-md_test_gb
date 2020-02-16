@@ -3,7 +3,7 @@ title: "Usare una shell linux su Windows senza i privilegi di amministratore"
 linkTitle: "Usare una shell linux su Windows senza i privilegi di amministratore"
 date: 2019-03-15
 description: >
-  Per **utilizzare una shell linux su windows** ci sono diversi modi, in questa ricetta vediamo un approccio adatto a chi sul proprio     computer, con sistema operativo Windows 10, non dispone dei privilegi di amministratore.
+  Per **utilizzare una shell linux su windows** ci sono diversi modi, in questa ricetta vediamo un approccio adatto a chi sul proprio    computer, con sistema operativo Windows 10, non dispone dei privilegi di amministratore.
 tags:
   - shell
   - babum

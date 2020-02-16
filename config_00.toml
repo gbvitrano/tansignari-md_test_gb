@@ -18,7 +18,9 @@ enableMissingTranslationPlaceholders = true
 
 #disableKinds = ["taxonomy", "taxonomyTerm"]
 
-
+[taxonomies]
+  autore = "autori"
+  tag = "tags"
 
 # Highlighting config
 pygmentsCodeFences = true
@@ -175,8 +177,3 @@ no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY
 	url = "https://t.me/opendatasicilia."
 	icon = "fab ab fa-telegram-plane"
       desc = "Groups Telegram"
-
-
-[taxonomies]
-  tag = "tags"
-  autore = "autori"

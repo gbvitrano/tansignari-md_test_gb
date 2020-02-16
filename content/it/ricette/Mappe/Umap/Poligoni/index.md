@@ -3,10 +3,13 @@ title: "uMap - Tematizzare i poligoni"
 linkTitle: "uMap - Tematizzare i poligoni"
 date: 2019-06-14
 description: >
-  Trucco per tematizzare poligoni in `uMap`.
+  Trucco per tematizzare poligoni in [`uMap`](https://umap.openstreetmap.fr/it/).
 tags:
 - uMap
 - mappa
+- geojson
+- HfcQGIS
+- QGIS
 autori: ["gbvitrano"]
 chef: "gbvitrano"
 ---

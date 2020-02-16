@@ -8,7 +8,9 @@ tags:
   - geocoding
   - riga di comando
   - nominatim
-issue: 38
+  - script
+  - bash
+issue: [38,39,42]
 autori: ["Totò Fiandaca"]
 chef: "Andrea Borruso"
 ---

@@ -8,6 +8,8 @@ tags:
   - geocoding
   - gsheet
   - nominatim
+  - latlon
+  - OSM
 autori: ["gbvitrano"]
 chef: "gbvitrano"
 ---

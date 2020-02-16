@@ -13,6 +13,7 @@ tags:
   - gpl
   - QML
   - GIMP
+  - tsv
 issue: 63
 autori: ["Totò Fiandaca"]
 chef: "Andrea Borruso"

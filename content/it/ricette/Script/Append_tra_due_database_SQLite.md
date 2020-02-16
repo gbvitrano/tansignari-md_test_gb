@@ -6,6 +6,7 @@ description: >
  Come aggiungere dati a tabelle di due database sqlite differenti usando uno script.
 tags:
   - script
+  - GDAL/OGR
   - bash
   - SQLite
   - SpatiaLite

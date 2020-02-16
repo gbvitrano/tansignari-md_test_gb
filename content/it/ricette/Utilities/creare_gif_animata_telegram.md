@@ -13,8 +13,7 @@ autori: ["Andrea Borruso"]
 chef: "Andrea Borruso"
 ---
 
-- issue correlata: `[#107](https://github.com/opendatasicilia/tansignari/issues/107)`
-- autore: `[Andrea Borruso](https://twitter.com/aborruso)`;
+- issue correlata: [#107](https://github.com/opendatasicilia/tansignari/issues/107)
 - ingredienti: [ffmpeg](https://www.ffmpeg.org/)
 
 ---

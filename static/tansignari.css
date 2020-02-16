@@ -16,3 +16,17 @@
 .listatag {
   margin-bottom: 5px;
 }
+
+#autori {
+  padding-inline-start: 0px;
+  font-style: italic;
+}
+
+#tagricetta {
+  padding-inline-start: 0px;
+  color: gray;
+}
+
+#tagricetta a {
+  color: #FF8000;
+}

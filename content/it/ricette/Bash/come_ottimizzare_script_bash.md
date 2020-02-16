@@ -3,13 +3,14 @@ title: "Come ottimizzare uno script bash"
 linkTitle: "Come ottimizzare uno script bash"
 date: 2020-01-30
 description: >
-  Ottimizzazione tramite l'uso delle `variabili`.
+  Ottimizzazione tramite l'uso delle [`variabili`](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-5.html).
 tags:
   - bash
   - sed
   - curl
   - 7z
-issue: 112
+  - script
+issue: [112,111,110]
 autori: ["Totò Fiandaca"]
 chef: "Andrea Borruso"
 ---

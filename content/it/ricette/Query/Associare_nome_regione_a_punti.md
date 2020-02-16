@@ -6,9 +6,13 @@ description: >
  Associare il nome delle regioni ISTAT a dei punti demanio.
 tags:
   - SQL
+  - SQLite
+  - SpatiaLite
   - query
   - mapshaper
   - ISTAT
+  - CSV
+  - shapefile
 issue:
 autori: ["Totò Fiandaca"]
 chef: "Andrea Borruso"

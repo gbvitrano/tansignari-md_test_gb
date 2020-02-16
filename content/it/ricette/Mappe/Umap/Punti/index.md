@@ -7,6 +7,8 @@ description: >
 tags:
 - Umap
 - mappa
+- geojson
+- QGIS
 autori: ["gbvitrano"]
 chef: "gbvitrano"
 ---

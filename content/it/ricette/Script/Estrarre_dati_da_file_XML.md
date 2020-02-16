@@ -10,6 +10,7 @@ tags:
   - script
   - XML
   - yq
+  - gsheet
   - xmlstarlet
   - Miller
   - XPATH

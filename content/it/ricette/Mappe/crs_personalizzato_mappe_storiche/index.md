@@ -1,6 +1,6 @@
 ---
 title: "Come creare un Sistema di Riferimento personalizzato: un esempio con mappe storiche"
-linkTitle: "Come creare un Sistema di Riferimento personalizzato: un esempio con mappe storiche"
+linkTitle: "Come creare un Sistema di Riferimento personalizzato"
 date: 2019-01-05
 description: >
   Creare SR personalizzato per proiezione `Lambert` e `coordinate geografiche`.
@@ -10,6 +10,7 @@ tags:
 - CRS
 - mappa
 - datum
+- ellissoide
 - georeferenziazione
 issue: 113
 autori: ["Totò Fiandaca"]

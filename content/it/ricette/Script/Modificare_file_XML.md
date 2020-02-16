@@ -12,6 +12,7 @@ tags:
   - Miller
   - script
   - XML
+  - bash
 issue: 58
 autori: ["Totò Fiandaca"]
 chef: ["Giovanni Pirrotta","Andrea Borruso"]
