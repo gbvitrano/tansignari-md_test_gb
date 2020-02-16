@@ -32,10 +32,8 @@
 }
 
 /* Colore barra navigazione*/
+.td-navbar {    background: #781F1F;}
 
-.td-navbar {
-    background: #781F1F;}
-	
-	.td-box--1 {  color: #fff; background-color: #781F1F; !important;
-   
-}
+/* Colore box testo */
+.td-box--primary {  color: #fff; background-color: #781F1F; !important; }
+.td-box--1 {  color: #fff; background-color: #781F1F; !important; }
