@@ -36,12 +36,17 @@
 .navbar-bg-onscroll {  background: #781F1F!important;  opacity: inherit; }
 
 /* link*/
-
 a:link {text-decoration:none; color: #fff; !important;}
 a:visited {text-decoration: underline;	color: #781F1F; !important;}
 a:hover {text-decoration: underline; color: #781F1F; !important;}
 a:active {    text-decoration: underline;	color: #781F1F; !important;}
 
+/* link .community */
+.community {color: #FFFFFF!important; font-weight: bold; }
+.community a:link {text-decoration:underline color:#FFFFFF !important;}
+.community a:visited {text-decoration: underline;	color: #FFFFFF !important;}
+.community a:hover {text-decoration: underline; color: #FFFFFF !important;}
+.community a:active { text-decoration: underline;	color: #FFFFFF !important;} 
 /* @http://tansignari.opendatasicilia.it*/
 
 /* Colore sfondo orangee*/
