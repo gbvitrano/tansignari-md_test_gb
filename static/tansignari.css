@@ -30,3 +30,12 @@
 #tagricetta a {
   color: #FF8000;
 }
+
+/* Colore barra navigazione*/
+
+.td-navbar {
+    background: #781F1F;}
+	
+	.td-box--1 {  color: #fff; background-color: #781F1F; !important;
+   
+}
