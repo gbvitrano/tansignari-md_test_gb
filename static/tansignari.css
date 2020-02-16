@@ -36,11 +36,11 @@
 .navbar-bg-onscroll {  background: #781F1F!important;  opacity: inherit; }
 
 /* link*/
-/*
+
 a:link {text-decoration:none; color: #fff; !important;}
 a:visited {text-decoration: underline;	color: #781F1F; !important;}
 a:hover {text-decoration: underline; color: #781F1F; !important;}
-a:active {    text-decoration: underline;	color: #781F1F; !important;} */
+a:active {    text-decoration: underline;	color: #781F1F; !important;}
 
 /* @http://tansignari.opendatasicilia.it*/
 
@@ -51,11 +51,14 @@ a:active {    text-decoration: underline;	color: #781F1F; !important;} */
 .td-box--primary {  color: #fff; background-color: #781F1F; !important; }
 .td-box--1 {  color: #fff; background-color: #781F1F; !important; }
 
-.td-box--3 { color: #222; background-color: #C0E0DE; }
+.td-box--3 { color: #222; background-color: #996; !important;}
+.td-box--4 { color: #222; background-color: #996; !important;}
+
 
 /* freccia blocchi  */
 .td-box--primary .td-arrow-down::before { border-color: #781F1F transparent transparent transparent;}
 .td-box--1 .td-arrow-down::before { border-color: #781F1F transparent transparent transparent;}
+.td-box--4 p > a {  color: #fff; }
 
 /* immagine no bordo/ no ombra */
 .immagonobox {	max-width: 100%!important;    height: auto!important;	box-shadow: none !important; border: none !important;	border-radius:  none !important;	moz-border-radius: none !important; -webkit-border-radius: none !important;	background-color: transparent !important;	}
