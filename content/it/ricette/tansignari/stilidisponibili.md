@@ -9,8 +9,8 @@ tags:
   - docsy
   - Bootstap 4
 issue:
-autore: "Andrea Borruso"
-chef: "Andrea Borruso"
+autori: ["Andrea Borruso"]
+chefs: ["Andrea Borruso"]
 ---
 
 # Introduzione

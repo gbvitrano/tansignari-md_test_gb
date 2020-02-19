@@ -12,8 +12,8 @@ tags:
   - SQLite
   - geojson
 issue: [46]
-autori: ["gbvitrano"]
-chef: ["Andrea Borruso","Totò Fiandaca"]
+autori: ["Gianni Vitrano"]
+chefs: ["Andrea Borruso","Totò Fiandaca"]
 ---
 
 * autore: _[gbvitrano](https://twitter.com/gbvitano?lang=it)_

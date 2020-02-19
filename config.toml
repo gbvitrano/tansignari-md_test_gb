@@ -180,3 +180,4 @@ no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY
 [taxonomies]
   tag = "tags"
   autore = "autori"
+  chef = "chefs"

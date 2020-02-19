@@ -13,8 +13,8 @@ tags:
   - script
   - yq
 issue: [84]
-autori: ["gbvitrano"]
-chef: "Andrea Borruso"
+autori: ["Gianni Vitrano"]
+chefs: ["Andrea Borruso"]
 ---
 
 * autore: [gbvitrano](https://twitter.com/gbvitrano)

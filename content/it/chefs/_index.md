@@ -1,7 +1,7 @@
 
 ---
-title: "Chef"
-linkTitle: "Chef"
+title: "Chefs"
+linkTitle: "Chefs"
 weight: 12
 menu:
   main:

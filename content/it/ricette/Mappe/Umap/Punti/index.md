@@ -9,8 +9,8 @@ tags:
 - mappa
 - geojson
 - QGIS
-autori: ["gbvitrano"]
-chef: "gbvitrano"
+autori: ["Gianni Vitrano"]
+chefs: ["Gianni Vitrano"]
 ---
 
 * autore: [gbvitrano](https://twitter.com/gbvitrano)
