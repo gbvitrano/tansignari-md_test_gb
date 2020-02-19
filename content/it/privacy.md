@@ -4,7 +4,7 @@ linkTitle: Privacy
 type: statico
 menu:
   main:
-    weight: 25
+    weight: 40
 
 
 ---
