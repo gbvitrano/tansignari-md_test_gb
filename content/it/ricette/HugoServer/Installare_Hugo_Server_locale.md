@@ -37,4 +37,4 @@ chefs: ["Andrea Borruso"]
 - verificare installazione di `hugo`, lanciare : `hugo version`
 - lanciare il server: `hugo server`
 
-- aggiornare hugo: Aggiornare Hugo è facile come scaricare e sostituire l'eseguibile che hai inserito nel PERCORSO o eseguire `brew upgrade hugo` se usi Homebrew.
+**Aggiornare Hugo** è facile come scaricare e sostituire l'eseguibile che hai inserito nel PERCORSO o eseguire `brew upgrade hugo` se usi Homebrew.
