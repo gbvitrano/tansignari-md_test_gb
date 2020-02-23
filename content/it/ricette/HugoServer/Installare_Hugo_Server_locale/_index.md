@@ -9,7 +9,10 @@ tags:
 - webserver
 - riga di comando
 - Bash
+- Shell
 - Html
+- Browser
+- localhost
 issue: [4]
 autori: ["Gianni Vitrano"]
 chefs: ["Andrea Borruso"]
