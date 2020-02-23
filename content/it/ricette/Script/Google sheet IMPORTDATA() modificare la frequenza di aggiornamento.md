@@ -13,6 +13,8 @@ autori: ["Gianni Vitrano"]
 chefs: ["Andrea Borruso"]
 ---
 
+---
+
 * autore: [gbvitrano](https://twitter.com/gbvitrano)
 * issue: [#25](https://github.com/opendatasicilia/tansignari/issues/25) ricetta [Andrea Borruso](https://twitter.com/aborruso?lang=it)
 

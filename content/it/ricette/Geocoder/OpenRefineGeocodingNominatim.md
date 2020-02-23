@@ -14,6 +14,8 @@ autori: ["Gianni Vitrano"]
 chefs: ["Gianni Vitrano"]
 ---
 
+---
+
 ## Caso d'uso
 
 Una semplice ricetta per estrarre Latitudine e longitudine dai tuoi dati utilizzando il servizio di Nominatim (evitando GoogleMaps). Tale ricetta non è farina del mio sacco, ma frutto della mente geniale di Andrea Borruso.
