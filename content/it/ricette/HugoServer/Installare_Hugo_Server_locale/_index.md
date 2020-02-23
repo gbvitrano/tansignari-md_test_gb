@@ -36,9 +36,17 @@ chefs: ["Andrea Borruso"]
 - cambiare cartella, ad esempio `cd ~`
 - verificare installazione di `hugo`, lanciare : `hugo version`
 - lanciare il server: aprire la bash Shell nella cartella che ospita il repository locale di github e scrivre `hugo server` dopo qualche secondo il sito web viene cotruito.
-![](img/cartella_repo.jpg)
-![](img/cartella_repo_bash.jpg)
+
+![](./repo.jpg)
+
+Adesso non resta che digitare `bash` nella bara degli indirizzi di esplora risorse e si aprirà la Linux Bash Shell di Windows 10 nella cartella del repo
+
+![](./repo_bash.jpg)
+
+- lanciare il server: `hugo server`
+![](./bash.jpg)
 
 - visualizzare il sito sul web browser: `http://localhost:1313/` 
+![](./localhost.jpg)
 
 **Aggiornare Hugo** è facile come scaricare e sostituire l'eseguibile che hai inserito nel **PERCORSO** 
