@@ -35,6 +35,10 @@ chefs: ["Andrea Borruso"]
 - dare i permessi, lanciare: `sudo chmod +x ./hugo`
 - cambiare cartella, ad esempio `cd ~`
 - verificare installazione di `hugo`, lanciare : `hugo version`
-- lanciare il server: `hugo server`
+- lanciare il server: aprire la bash Shell nella cartella che ospita il repository locale di github e scrivre `hugo server` dopo qualche secondo il sito web viene cotruito.
+![](img/cartella_repo.jpg)
+![](img/cartella_repo_bash.jpg)
 
-**Aggiornare Hugo** è facile come scaricare e sostituire l'eseguibile che hai inserito nel PERCORSO o eseguire `brew upgrade hugo` se usi Homebrew.
+- visualizzare il sito sul web browser: `http://localhost:1313/` 
+
+**Aggiornare Hugo** è facile come scaricare e sostituire l'eseguibile che hai inserito nel **PERCORSO** 
