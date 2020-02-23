@@ -17,5 +17,12 @@ chefs: ["Andrea Borruso"]
 * autore: _[Gianni Vitrano](https://twitter.com/gbvitrano?lang=it)_; fornitore ricetta: *[Andrea Borruso](https://twitter.com/aborruso?lang=it)*;
 * ingredienti: [Host on Netlify](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/)
 
-## Host on Netlify
+## Cos'è Netlify?
+[Netlify](https://app.netlify.com)  è un sistema di gestione dei contenuti open source per il flusso di lavoro Git. Fornisce agli editor un’interfaccia utente intuitiva e facile anche a chi non ha dimestichezza con i codici.
+
+## Crea un account Netlify
+
+![](./netlify.jpg)
+
+work in progress....
 
