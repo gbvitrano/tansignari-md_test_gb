@@ -3,11 +3,11 @@ title: "Host on Netlify"
 linkTitle: "Netlify"
 date: 2020-02-22
 description: >
-    Netlify offre servizi di distribuzione continua, CDN globale, DNS ultraveloce, distribuzioni atomiche, invalidazione istantanea della cache, SSL con un clic, un'interfaccia basata su browser, una CLI e molte altre funzionalità per la gestione del sito Web Hugo.
+  Netlify offre servizi di distribuzione continua, CDN globale, DNS ultraveloce, distribuzioni atomiche, invalidazione istantanea della cache, SSL con un clic, un'interfaccia basata su browser, una CLI e molte altre funzionalità per la gestione del sito Web Hugo.
 tags:
-  - Netlify
-  - WebApp
-  - Html
+- Netlify
+- WebApp
+- Html
 issue: [12]
 autori: ["Gianni Vitrano"]
 chefs: ["Andrea Borruso"]

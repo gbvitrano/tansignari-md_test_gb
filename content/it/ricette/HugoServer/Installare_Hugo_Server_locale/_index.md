@@ -3,13 +3,13 @@ title: "Hugo Server, Linux Bash Shell di Windows"
 linkTitle: "Hugo Server "
 date: 2020-02-22
 description: >
-    Hugo Server
+  Hugo Server
 tags:
-  - Hugo Server
-  - webserver
-  - riga di comando
-  - Bash
-  - Html
+- Hugo Server
+- webserver
+- riga di comando
+- Bash
+- Html
 issue: [4]
 autori: ["Gianni Vitrano"]
 chefs: ["Andrea Borruso"]
