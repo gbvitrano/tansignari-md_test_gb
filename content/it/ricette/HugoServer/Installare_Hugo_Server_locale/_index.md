@@ -44,9 +44,11 @@ Adesso non resta che digitare `bash` nella bara degli indirizzi di esplora risor
 ![](./repo_bash.jpg)
 
 - lanciare il server: `hugo server`
+
 ![](./bash.jpg)
 
 - visualizzare il sito sul web browser: `http://localhost:1313/` 
+
 ![](./localhost.jpg)
 
 **Aggiornare Hugo** è facile come scaricare e sostituire l'eseguibile che hai inserito nel **PERCORSO** 
