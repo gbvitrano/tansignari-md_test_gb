@@ -1,5 +1,5 @@
 ---
-title: "Hugo Server"
+title: "Hugo"
 linkTitle: "Hugo"
 weight: 8
 description: >
