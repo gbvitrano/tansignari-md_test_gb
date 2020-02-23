@@ -5,7 +5,7 @@ date: 2019-08-12
 description: >
   Trucco per tematizzare i punti in `uMap`.
 tags:
-- Umap
+- uMap
 - mappa
 - geojson
 - QGIS
