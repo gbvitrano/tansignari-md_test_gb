@@ -23,6 +23,10 @@ chefs: ["Andrea Borruso"]
 
 ## Crea un account Netlify
 
-![](./netlify.jpg)
+![](./netlify.png)
+
+![](./login.png)
+
+![](./account.png)
 
 work in progress....
