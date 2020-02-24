@@ -55,12 +55,12 @@ A questo punto basta selezionare il repository che si desidera utilizzare per la
 
 ![](./create_02.png)
 
-Una volta selezionato, si apre la una schermata per la configurazione di base. Qui si può selezionare il ramo che vuole pubblicare, il comando **build** e la tua directory publishing (ovvero deploy). 
-La directory di pubblicazione dove rispecchiare quella si è impostata nella configurazione del tuo sito, il cui valore predefinito è pubblico.
+Una volta selezionato, si apre la una schermata per la configurazione di base. Qui si può selezionare il ramo che vuole pubblicare, il comando **build** e la directory publishing (ovvero deploy). 
+La directory di pubblicazione dove rispecchiare quella si è impostata nella configurazione del sito, il cui valore predefinito è pubblico.
 
 ## Configurare la versione di Hugo in Netlify
 
-Già con la configurazione di base proposta da [Netlify](https://app.netlify.com) basta cliccare sul pulsante (3) **Deploy Site** ed il sito in pochi minuti verrà costruito.
+Già con la configurazione di base proposta da [Netlify](https://app.netlify.com) basta cliccare sul pulsante (3) **Deploy Site** ed il sito in pochi minuti verrà costruito. <br>
 Nel nostro caso abbiamo usato il tema [Goldydocs](https://example.docsy.dev/) e abbiamo modificato la configurazione di base seguendo i consigli di **[Docsy | Previews and Deployment](https://www.docsy.dev/docs/deployment/#deployment-with-netlify)**.
 
 ![](./create_03.png)
