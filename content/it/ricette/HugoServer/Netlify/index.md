@@ -82,4 +82,4 @@ Dopo aver pubblicato il sito, cliccanso sui pulsati (1) **Site setting**  e  (2)
 
 Buon lavoro :-) 
 
-![](./online.png)
+![](./online.jpg)
