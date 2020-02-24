@@ -81,3 +81,5 @@ Dopo aver pubblicato il sito, cliccanso sui pulsati (1) **Site setting**  e  (2)
 ![](./create_05.png)
 
 Buon lavoro :-) 
+
+![](./online.png)
