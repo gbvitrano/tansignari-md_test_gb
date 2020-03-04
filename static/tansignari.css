@@ -92,13 +92,12 @@ a.text-info:hover, a.text-info:focus {color:   #781F1F !important; }
 @media (min-width: 200px) and (max-width: 850px) {.td-content p, .td-content li, .td-content td {font-weight: 400;  padding-left: 1.25rem!important; padding-right: 1.25rem!important;}}
 @media (min-width: 200px) and (max-width: 850px) {#tagricetta { padding-left: 1.25rem!important;}}
 
-@media (min-width: 200px) and (max-width: 850px) {.td-content > h1 {text-align: center!important; padding-left: 1.25rem !important;
-
-padding-right: 1.25rem !important;}}
+@media (min-width: 200px) and (max-width: 850px) {.td-content > h1 {text-align: center!important; padding-left: 1.25rem !important; padding-right: 1.25rem !important;}}
 
 @media (min-width: 200px) and (max-width: 850px) {.text-muted {    padding-left: 1.25rem!important;   padding-right: 1.25rem!important;}}
 
 @media (min-width: 200px) and (max-width: 850px) {#td-cover-block-0 { background-image: url(background_mobile.jpg)!important;}}
+@media (min-width: 851px) and (max-width: 2560px) {#td-cover-block-0 { background-image: url(background.jpg)!important;}}
 @media (min-width: 200px) and (max-width: 850px) {.pb-5, .py-5 {padding-left: 1.25rem!important; padding-right: 1.25rem!important;}}
 
 
