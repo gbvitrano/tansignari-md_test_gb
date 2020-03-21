@@ -47,9 +47,10 @@ body {background-color:  #90b4ce!important; }
 .btn-primary:hover {color:#fffffe!important; background: #ef4565 linear-gradient(180deg, #ef4565,#ef4565) repeat-x;border-color: #ef4565;}
 
 /* bottone github background */
-.btn-secondary {  color: #fff!important; background: background: #ef4565 linear-gradient(180deg, #ef4565,#ef4565) repeat-x;border-color: #ef4565;}
+.btn-secondary {  color: #fff!important; background: #ef4565 linear-gradient(180deg, #ef4565,#ef4565) repeat-x;border-color: #ef4565;}
  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(0, 0, 0, 0.075); }
-.btn-secondary:hover {color: #fffffe!important;  background: #094067 linear-gradient(180deg, #094067, #094067) repeat-x; border-color: #094067;}
+.btn-secondary:hover {color: #fff!important;  background: #094067 linear-gradient(180deg, #094067, #094067) repeat-x; border-color: #094067;
+ box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(0, 0, 0, 0.075); }
 
 /* Colore barra navigazione*/
 .td-navbar {    background: #094067!important;}
@@ -70,6 +71,9 @@ a:active {text-decoration: none;	color: #fff!important;}
 /* link .community*/
 
 h10 {color: #fff!important;    display: block;    font-size: 1.5em;   margin-block-start: 0.67em;    margin-block-end: 0.67em;   margin-inline-start: 0px;    margin-inline-end: 0px;
+    font-weight: bold;}
+	
+	h11 {color: #fff!important;    display: block;    font-size: 2.8em;   margin-block-start: 0.67em;    margin-block-end: 0.67em;   margin-inline-start: 0px;    margin-inline-end: 0px;
     font-weight: bold;}
 
 .community p1, color: #fff!important; }
@@ -121,7 +125,7 @@ h10 {color: #fff!important;    display: block;    font-size: 1.5em;   margin-blo
 .td-main main a:visited {text-decoration: underline;	color: #094067!important;}
 .td-main main a:hover {text-decoration: underline; color: #ef4565!important;}
 .td-main main a:active {text-decoration: none;	color: #094067!important;}
-.flex-xl-nowrap {flex-wrap: nowrap !important; background-color: #d8eefe !important;}
+/*.flex-xl-nowrap {flex-wrap: nowrap !important; background-color: #d8eefe !important;}*/
 
 /* link modifica ricetta*/
 .td-toc { background-color: #d8eefe!important;  }
@@ -156,6 +160,7 @@ a.text-info:hover, a.text-info:focus {color:  #094067!important; }
 @media (min-width: 200px) and (max-width: 850px) {h1, .h1 {font-size: 1.65rem!important;}}
 @media (min-width: 200px) and (max-width: 850px) {h2, .h2 {font-size: 1.7rem!important;}}
 @media (min-width: 200px) and (max-width: 850px) {h10, .h10 {font-size: 1.35rem!important;}}
+@media (min-width: 200px) and (max-width: 850px) {h11, .h11 {font-size: 1.35rem!important;}}
 @media (min-width: 200px) and (max-width: 850px) {.td-content > h2 { margin-bottom: 1rem;  padding-left: 1.25rem!important;   padding-right: 1.25rem!important;}}
 @media (min-width: 200px) and (max-width: 850px) {.td-content p, .td-content li, .td-content td {font-weight: 400;  padding-left: 1.25rem!important; padding-right: 1.25rem!important;}}
 @media (min-width: 200px) and (max-width: 850px) {#tagricetta { padding-left: 1.25rem!important;}}
