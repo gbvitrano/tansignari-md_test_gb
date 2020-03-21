@@ -32,7 +32,10 @@
 }
 
 /* body   background-color */
-body { background-color: #d8eefe!important;}
+body {background-color:  #d8eefe!important;}
+
+/* colore testo 
+.td-content p, .td-content li, .td-content td, p, H1, H2, H3, H4, H5, H6 {font-weight: 400; color: #094067!important; }*/
 
 /* display none */
 .display_no {display: none !important;}
@@ -53,6 +56,7 @@ body { background-color: #d8eefe!important;}
 .navbar-bg-onscroll {  background: #094067!important;  opacity: inherit; }
 
 /* link*/
+
 a:link {text-decoration:none; color: #094067!important;}
 a:visited {text-decoration: underline;	color: #094067!important;}
 a:hover {text-decoration: underline; color: #ef4565!important;}
@@ -64,19 +68,30 @@ a:active {text-decoration: none;	color: #094067!important;}
 .td-navbar a:hover {text-decoration: none; color: #eaddcf!important;}
 .td-navbar a:active {    text-decoration: none;	color: #fffffe!important;}
 
-/* link .community */
-.community {color: #FFFFFF!important; font-weight: bold; }
-.community a:link {text-decoration:underline color:#FFFFFF !important;}
-.community a:visited {text-decoration: underline;	color: #FFFFFF !important;}
-.community a:hover {text-decoration: underline; color: #FFFFFF !important;}
-.community a:active { text-decoration: underline;	color: #FFFFFF !important;} 
+/* link .community*/
+
+h10 {color: #fff!important;
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.community p1, color: #fff!important; }
+.community a:link {text-decoration:underline; color: #fff!important;}
+.community a:visited {text-decoration: underline; color: #fff!important;}
+.community a:hover {text-decoration: underline; color: #fff!important;}
+.community a:active { text-decoration: underline;color: #fff!important;}  
 /* @http://tansignari.opendatasicilia.it*/
 
 /* Colore sfondo orangee*/
 .-bg-orange {  color: #fff; background-color: #094067!important; }
 
 /* Colore sfondo dark*/
-.td-box--dark {color: #020826!important; background-color:  #d8eefe!important;}
+.td-box--dark {color: #094067!important; background-color:  #d8eefe!important;}
 
 /* Colore sfondo dark footer*/
 .bg-dark {color: #094067!important; background-color:#b5d0e3!important; }
@@ -88,20 +103,19 @@ a:active {text-decoration: none;	color: #094067!important;}
 .bg-dark a:active {text-decoration: none;	color: #fffffe!important;}*/
 
 /* Colore box testo */
-.td-box--primary {  color: #fff; background-color: #094067!important; }
+.td-box--primary { color: #fff!important; background-color: #094067!important; }
 .td-box--1 {  color: #fff; background-color: #094067!important; }
 
 
-.td-box--3 { color: #222; background-color: #90b4ce !important;}
-.td-box--4 { color: #222; background-color: #90b4ce !important;}
+.td-box--3 { color: #094067!important; background-color: #90b4ce !important;}
+.td-box--4 { color: #094067!important; background-color: #90b4ce !important;}
 
 /* freccia blocchi  */
 .td-box--primary .td-arrow-down::before { border-color: #094067 transparent transparent transparent;}
 .td-box--1 .td-arrow-down::before { border-color: #094067 transparent transparent transparent;}
-.td-box--4 p > a {  color: #fff; }
+.td-box--4 p > a {  color: #094067!important; }
 
-/* colore testo */
-/* .td-content p, .td-content li, .td-content td, p, H1, H2, H3, H4, H5, H6 {font-weight: 400; color: #094067!important; }*/
+
 
 
 /* box menu ricette  background-color */
@@ -136,6 +150,7 @@ a.text-info:hover, a.text-info:focus {color:   #781F1F !important; }
 
 @media (min-width: 200px) and (max-width: 850px) {h1, .h1 {font-size: 1.65rem!important;}}
 @media (min-width: 200px) and (max-width: 850px) {h2, .h2 {font-size: 1.7rem!important;}}
+@media (min-width: 200px) and (max-width: 850px) {h10, .h10 {font-size: 1.35rem!important;}}
 @media (min-width: 200px) and (max-width: 850px) {.td-content > h2 { margin-bottom: 1rem;  padding-left: 1.25rem!important;   padding-right: 1.25rem!important;}}
 @media (min-width: 200px) and (max-width: 850px) {.td-content p, .td-content li, .td-content td {font-weight: 400;  padding-left: 1.25rem!important; padding-right: 1.25rem!important;}}
 @media (min-width: 200px) and (max-width: 850px) {#tagricetta { padding-left: 1.25rem!important;}}
