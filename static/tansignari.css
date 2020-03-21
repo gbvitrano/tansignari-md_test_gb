@@ -32,7 +32,7 @@
 }
 
 /* body   background-color */
-body {background-color:  #90b4ce!important; }
+body {background-color:  #90b4ce!important; overflow-x: hidden;}
 
 /* colore testo 
 .td-content p, .td-content li, .td-content td, p, H1, H2, H3, H4, H5, H6 {font-weight: 400; color: #094067!important; }*/
@@ -124,7 +124,7 @@ h11 {color: #fff!important;    display: block;    font-size: 2.8em;   margin-blo
 .td-main main a:visited {text-decoration: underline;	color: #094067!important;}
 .td-main main a:hover {text-decoration: underline; color: #ef4565!important;}
 .td-main main a:active {text-decoration: none;	color: #094067!important;}
-/*.flex-xl-nowrap {flex-wrap: nowrap !important; background-color: #d8eefe !important;}*/
+.flex-xl-nowrap {background-color: #d8eefe !important;}
 
 /* link modifica ricetta*/
 .td-toc { background-color: #d8eefe!important;  }
