@@ -55,7 +55,7 @@ body { background-color: #d8eefe!important;}
 /* link*/
 a:link {text-decoration:none; color: #094067!important;}
 a:visited {text-decoration: underline;	color: #094067!important;}
-a:hover {text-decoration: underline; color: #3da9fc!important;}
+a:hover {text-decoration: underline; color: #ef4565!important;}
 a:active {text-decoration: none;	color: #094067!important;}
 
 /* link td-navbar*/
@@ -104,7 +104,7 @@ a:active {text-decoration: none;	color: #094067!important;}
 .td-sidebar-nav a:link {color: #020826!important; text-decoration:none;}
 .td-sidebar-nav a:visited {color: #020826!important; text-decoration:none;}
 .td-sidebar-nav a:active  {color: #020826!important; text-decoration:none;}
-.td-sidebar-nav a:hover {color: #f25042!important; text-decoration:underline;}
+.td-sidebar-nav a:hover {color: #ef4565!important; text-decoration:underline;}
 
 /* immagine no bordo/ no ombra */
 .immagonobox {	max-width:98%!important;    height: auto!important;	box-shadow: none !important; border: none !important;	border-radius:  none !important;	moz-border-radius: none !important; -webkit-border-radius: none !important;	background-color: transparent !important;	}
