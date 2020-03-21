@@ -32,22 +32,22 @@
 }
 
 /* body   background-color */
-body {background-color:  #90b4ce!important;}
+body {background-color:  #90b4ce!important; }
 
 /* colore testo 
 .td-content p, .td-content li, .td-content td, p, H1, H2, H3, H4, H5, H6 {font-weight: 400; color: #094067!important; }*/
 
 /* display none */
 .display_no {display: none !important;}
-.
-.
+
+.-bg-white {color: #fff!important;  background-color: #33000078 !important; text-align: left !important; padding: 25px !important; border-radius: 15px;	moz-border-radius: 15px; -webkit-border-radius: 15px;	border: 1px solid  #33000078;}
 /* bottone ricette background */
-.btn-primary {  color: #fff!important; background: #094067 linear-gradient(180deg, #094067, #094067) repeat-x;  border-color: #094067; 
+.btn-primary {color: #fff!important; background: #094067 linear-gradient(180deg, #094067, #094067) repeat-x; border-color: #094067;
  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(0, 0, 0, 0.075); }
 .btn-primary:hover {color:#fffffe!important; background: #ef4565 linear-gradient(180deg, #ef4565,#ef4565) repeat-x;border-color: #ef4565;}
 
 /* bottone github background */
-.btn-secondary {  color: #fff!important; background: #ef4565 linear-gradient(180deg, #ef4565, #ef4565) repeat-x;  border-color: #ef4565; 
+.btn-secondary {  color: #fff!important; background: background: #ef4565 linear-gradient(180deg, #ef4565,#ef4565) repeat-x;border-color: #ef4565;}
  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(0, 0, 0, 0.075); }
 .btn-secondary:hover {color: #fffffe!important;  background: #094067 linear-gradient(180deg, #094067, #094067) repeat-x; border-color: #094067;}
 
@@ -97,7 +97,6 @@ h10 {color: #fff!important;    display: block;    font-size: 1.5em;   margin-blo
 /* Colore box testo */
 .td-box--primary { color: #fff!important; background-color: #094067!important; }
 .td-box--1 {  color: #fff; background-color: #094067!important; }
-
 
 .td-box--3 { color: #094067!important; background-color: #90b4ce !important;}
 .td-box--4 { color: #094067!important; background-color: #90b4ce !important;}
