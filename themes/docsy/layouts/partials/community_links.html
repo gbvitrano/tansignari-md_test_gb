@@ -2,19 +2,19 @@
 
 <section class="row td-box td-box--4 td-box--gradient td-box--height-auto linkbox">
 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-<h2>Impara e connettiti</h2>		
-<p>Vuoi usare {{ .Site.Title }}? Scopri di più qui:
+<h2>Learn and Connect</h2>		
+<p>Using or want to use {{ .Site.Title }}? Find out more here:
 {{ with index $links "user"}}
 {{ template "community-links-list"  . }}
 {{ end }}
 </div>
 <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-<h2>Sviluppa e contribuisci</h2>
-<p>Se vuoi essere più coinvolto contribuendo a {{ .Site.Title }}, unisciti a noi qui:
+<h2>Develop and Contribute</h2>
+<p>If you want to get more involved by contributing to {{ .Site.Title }}, join us here:
 {{ with index $links "developer"}}
 {{ template "community-links-list"  . }}
 {{ end }}
-<p>Puoi scoprire come contribuire a questi documenti leggendo il nostro <a href="/galateo/" title="Il nostro Galateo">Galateo</a>.
+<p>You can find out how to contribute to these docs in our <a href="/docs/contribution-guidelines/">Contribution Guidelines</a>.
 </div>
 </section>
 
