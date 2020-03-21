@@ -40,7 +40,7 @@ body {background-color:  #90b4ce!important; }
 /* display none */
 .display_no {display: none !important;}
 
-.-bg-white {color: #fff!important;  background-color: #33000078 !important; text-align: left !important; padding: 25px !important; border-radius: 15px;	moz-border-radius: 15px; -webkit-border-radius: 15px;	border: 1px solid  #33000078;}
+.-bg-white {color: #fff!important;  background-color: #33000078 !important; text-align: left !important; padding: 25px !important; border-radius: 15px;	moz-border-radius: 15px; -webkit-border-radius: 15px;	/*border: 1px solid  #33000078;*/}
 /* bottone ricette background */
 .btn-primary {color: #fff!important; background: #094067 linear-gradient(180deg, #094067, #094067) repeat-x; border-color: #094067;
  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(0, 0, 0, 0.075); }
@@ -72,8 +72,7 @@ a:active {text-decoration: none;	color: #fff!important;}
 
 h10 {color: #fff!important;    display: block;    font-size: 1.5em;   margin-block-start: 0.67em;    margin-block-end: 0.67em;   margin-inline-start: 0px;    margin-inline-end: 0px;
     font-weight: bold;}
-	
-	h11 {color: #fff!important;    display: block;    font-size: 2.8em;   margin-block-start: 0.67em;    margin-block-end: 0.67em;   margin-inline-start: 0px;    margin-inline-end: 0px;
+h11 {color: #fff!important;    display: block;    font-size: 2.8em;   margin-block-start: 0.67em;    margin-block-end: 0.67em;   margin-inline-start: 0px;    margin-inline-end: 0px;
     font-weight: bold;}
 
 .community p1, color: #fff!important; }
