@@ -32,7 +32,7 @@
 }
 
 /* body   background-color */
-body { background-color: #f9f4ef!important;}
+body { background-color: #d8eefe!important;}
 
 /* display none */
 .display_no {display: none !important;}
@@ -49,14 +49,14 @@ body { background-color: #f9f4ef!important;}
 .btn-secondary:hover {color: #fffffe!important;  background: #f25042 linear-gradient(180deg, #f25042, #f25042) repeat-x; border-color: #f25042;}
 
 /* Colore barra navigazione*/
-.td-navbar {    background: #8c7851!important;}
-.navbar-bg-onscroll {  background: #8c7851!important;  opacity: inherit; }
+.td-navbar {    background: #094067!important;}
+.navbar-bg-onscroll {  background: #094067!important;  opacity: inherit; }
 
 /* link*/
-a:link {text-decoration:none; color: #020826!important;}
-a:visited {text-decoration: underline;	color: #020826!important;}
-a:hover {text-decoration: underline; color: #f25042!important;}
-a:active {text-decoration: none;	color: #f25042!!important;}
+a:link {text-decoration:none; color: #094067!important;}
+a:visited {text-decoration: underline;	color: #094067!important;}
+a:hover {text-decoration: underline; color: #3da9fc!important;}
+a:active {text-decoration: none;	color: #094067!important;}
 
 /* link td-navbar*/
 .td-navbar a:link {text-decoration:none; color: #fffffe!important;}
@@ -73,34 +73,34 @@ a:active {text-decoration: none;	color: #f25042!!important;}
 /* @http://tansignari.opendatasicilia.it*/
 
 /* Colore sfondo orangee*/
-.-bg-orange {  color: #fff; background-color: #8c7851!important; }
+.-bg-orange {  color: #fff; background-color: #094067!important; }
 
 /* Colore sfondo dark*/
-.td-box--dark {color: #020826!important; background-color:  #f9f4ef!important;}
+.td-box--dark {color: #020826!important; background-color:  #d8eefe!important;}
 
 /* Colore sfondo dark footer*/
-.bg-dark {color: #fffffe!important; background-color:#55423d !important; }
+.bg-dark {color: #fffffe!important; background-color:#b5d0e3!important; }
 
-/* link dark footer*/
+/* link dark footer
 .bg-darkr a:link {text-decoration:none; color: #fffffe!important;}
 .bg-dark a:visited {text-decoration: none;	color: #fffffe!important;}
 .bg-dark a:hover {text-decoration: none; color: #eaddcf!important;}
-.bg-dark a:active {text-decoration: none;	color: #fffffe!important;}
+.bg-dark a:active {text-decoration: none;	color: #fffffe!important;}*/
 
 /* Colore box testo */
-.td-box--primary {  color: #fff; background-color: #8c7851!important; }
-.td-box--1 {  color: #fff; background-color: #8c7851!important; }
+.td-box--primary {  color: #fff; background-color: #094067!important; }
+.td-box--1 {  color: #fff; background-color: #094067!important; }
 
-.td-box--3 { color: #222; background-color: #eaddcf !important;}
-.td-box--4 { color: #222; background-color: #eaddcf !important;}
+.td-box--3 { color: #222; background-color: #90b4ce !important;}
+.td-box--4 { color: #222; background-color: #90b4ce !important;}
 
 /* freccia blocchi  */
-.td-box--primary .td-arrow-down::before { border-color: #8c7851 transparent transparent transparent;}
-.td-box--1 .td-arrow-down::before { border-color: #8c7851 transparent transparent transparent;}
+.td-box--primary .td-arrow-down::before { border-color: #094067 transparent transparent transparent;}
+.td-box--1 .td-arrow-down::before { border-color: #094067 transparent transparent transparent;}
 .td-box--4 p > a {  color: #fff; }
 
 /* box menu ricette  background-color */
-.td-sidebar { background-color: #f9f4ef!important; }
+.td-sidebar { background-color: #d8eefe!important; }
 .td-sidebar-nav a:link {color: #020826!important; text-decoration:none;}
 .td-sidebar-nav a:visited {color: #020826!important; text-decoration:none;}
 .td-sidebar-nav a:active  {color: #020826!important; text-decoration:none;}
