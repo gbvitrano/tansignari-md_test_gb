@@ -101,8 +101,17 @@ h11 {color: #fff!important;    display: block;    font-size: 2.8em;   margin-blo
 .td-box--primary { color: #fff!important; background-color: #094067!important; }
 .td-box--1 {  color: #fff; background-color: #094067!important; }
 
-.td-box--3 { color: #094067!important; background-color: #90b4ce !important;}
-.td-box--4 { color: #094067!important; background-color: #90b4ce !important;}
+.td-box--3 { color: #094067!important; background-color: #90b4ce !important; background-image: url(sf_02.png); 
+	background-attachment: scroll;
+    background-blend-mode: soft-light;
+	background-repeat: no-repeat;
+	background-size: cover; }
+.td-box--4 { color: #094067!important; background-color: #90b4ce !important;
+	background-image: url(sf_01.png); 
+	background-attachment: scroll;
+    background-blend-mode: soft-light;
+	background-repeat: no-repeat;
+	background-size: cover;}
 
 /* freccia blocchi  */
 .td-box--primary .td-arrow-down::before { border-color: #094067 transparent transparent transparent;}
