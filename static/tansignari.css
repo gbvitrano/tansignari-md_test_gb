@@ -106,13 +106,13 @@ box-shadow: inset 0px 2px 1px rgba(255,255,255,0.35), 0px 1px 1px rgba(0, 0, 0, 
 .td-box--primary { color: #fff!important; background-color: #094067!important; }
 .td-box--1 {  color: #fff; background-color: #094067!important; }
 
-.td-box--3 { color: #094067!important; background-color: #90b4ce!important; background-image: url(sf_02.png); 
+.td-box--3 { color: #094067!important; background-color: #90b4ce!important; background-image: url(sf_01.png); 
 	background-attachment: scroll;
     background-blend-mode: soft-light;
 	background-repeat: no-repeat;
 	background-size: cover; }
 .td-box--4 { color: #094067!important; background-color: #90b4ce!important;
-	background-image: url(sf_01.png); 
+	background-image: url(sf_02.png); 
 	background-attachment: scroll;
     background-blend-mode: soft-light;
 	background-repeat: no-repeat;
