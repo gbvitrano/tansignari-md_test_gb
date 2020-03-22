@@ -96,11 +96,6 @@ background-image: url(sf_dark.png);
 .bg-dark {color: #094067!important; background: #90b4ce linear-gradient(/*to bottom,*/ #90b4ce, #094067) repeat-x; border-color:#094067;  
 box-shadow: inset 0px 2px 1px rgba(255,255,255,0.35), 0px 1px 1px rgba(0, 0, 0, 0.75);/* box-shadow: 0 1px 2.5px rgba(0,0,0,0.65);*/ }
 
-
-/*background-color:!important; */
-
-/*#d8eefe*/
-
 /* link dark footer
 .bg-darkr a:link {text-decoration:none; color: #fffffe!important;}
 .bg-dark a:visited {text-decoration: none;	color: #fffffe!important;}
