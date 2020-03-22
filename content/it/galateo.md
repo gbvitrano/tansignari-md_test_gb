@@ -4,8 +4,7 @@ linkTitle: Galateo
 type: statico
 menu:
   main:
-    weight: 20
-
+    weight: 103
 
 ---
 

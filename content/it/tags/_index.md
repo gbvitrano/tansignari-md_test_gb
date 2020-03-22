@@ -5,5 +5,5 @@ linkTitle: "Tags"
 weight: 60
 menu:
   main:
-    weight: 59
+    weight: 106
 ---
