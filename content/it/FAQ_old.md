@@ -9,6 +9,9 @@ menu:
 
 ---
 
+
+
+
 # FAQ -- in costruzione
 
 1. **Che cosa è lo spazio T'ansignari e T'appeddiri.**
@@ -26,7 +29,7 @@ Puoi chiedere aiuto utilizzando le `issue` del repository, apri una nuova `issue
 
 4. **Cosa posso chiedere a T'ansignari.**
 
-Puoi chiedere tutto ciò che rientra nel **[Galateo](/galateo)** di questo spazio, quindi leggi il ***[Galateo](/galateo)**.
+Puoi chiedere tutto ciò che rientra nel **[Galateo](/galateo)** di questo spazio, quindi leggi il **[Galateo](/galateo)**.
 
 
 5. **Come scrivo una ricetta.**
