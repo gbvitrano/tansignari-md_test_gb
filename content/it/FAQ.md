@@ -21,17 +21,17 @@ menu:
 
 3. **Come chiedo aiuto.**
 
-Puoi chiedere aiuto utilizzando le `issue` del repository, apri una nuova `issue` e attieniti al **[Galateo](/galateo)**.
+Puoi chiedere aiuto utilizzando le `issue` del repository, apri una nuova `issue` e attieniti al **[Galateo](/galateo/ "attienti al Galateo")**.
 
 
 4. **Cosa posso chiedere a T'ansignari.**
 
-Puoi chiedere tutto ciò che rientra nel **[Galateo](/galateo)** di questo spazio, quindi leggi il ***[Galateo](/galateo)**.
+Puoi chiedere tutto ciò che rientra nel **[Galateo](/galateo/ "leggi il Galateo")** di questo spazio, quindi leggi il **[Galateo](/galateo/ "leggi il Galateo")**.
 
 
 5. **Come scrivo una ricetta.**
 
-Puoi scrivere la tua ricetta seguendo questo [template](/ricette/tansignari/come_scrivere_una_ricetta/). È necessario account a Github, un editor di testo avanzato e una minima conoscenza del linguaggio `markdowm`.
+Puoi scrivere la tua ricetta seguendo questo **[template](/ricette/tansignari/come_scrivere_una_ricetta/ "Come scrivere una ricetta")**. È necessario account a Github, un editor di testo avanzato e una minima conoscenza del linguaggio `markdowm`.
 
 6. **Cosa occorre per scrivere una ricetta.**
 

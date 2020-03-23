@@ -54,27 +54,27 @@ I widget dei social network sono quei particolari “pulsanti” o “blocchi”
 
 Per maggiori informazioni, anche sulla disattivazione di tali cookie, si consiglia di consultare i seguenti link:
 
-- [Twitter](http://twitter.com/privacy)
-- [Facebook](https://www.facebook.com/help/cookies)
-- [LinkedIn](https://www.linkedin.com/legal/cookie_policy)
-- [Google Plus](http://www.google.it/intl/it/policies/technologies/cookies/)
-- [AddThis](http://www.addthis.com/privacy/privacy-policy)
+- [Twitter](http://twitter.com/privacy "Twitter")
+- [Facebook](https://www.facebook.com/help/cookies "Facebook")
+- [LinkedIn](https://www.linkedin.com/legal/cookie_policy "LinkedIn")
+- [Google Plus](http://www.google.it/intl/it/policies/technologies/cookies/ "Google Plus")
+- [AddThis](http://www.addthis.com/privacy/privacy-policy "AddThis")
 
 ## Pubblicità 
 
-Sono presenti annunci di pubblicità etica di [**Read the Docs**](https://docs.readthedocs.io/en/latest/advertising/index.html) che rispetta la privacy degli utenti. <br>La pubblicità etica è la fonte princiaple del progetto [Read the Docs](https://docs.readthedocs.io/en/latest/index.html).
+Sono presenti annunci di pubblicità etica di [**Read the Docs**](https://docs.readthedocs.io/en/latest/advertising/index.html "Read the Docs*")) che rispetta la privacy degli utenti. <br>La pubblicità etica è la fonte princiaple del progetto [Read the Docs](https://docs.readthedocs.io/en/latest/index.html).
 
 ## Come disabilitare i cookie mediante configurazione del browser
 
 Fermo restando quanto sopra indicato in ordine ai cookie strettamente necessari alla navigazione, l’utente può eliminare gli altri cookie attraverso la funzionalità a tal fine messa a disposizione dal Titolare tramite la presente informativa oppure direttamente tramite il proprio browser.
 Ciascun browser presenta procedure diverse per la gestione delle impostazioni. L’utente può ottenere istruzioni specifiche attraverso i link sottostanti.
 
-- [Google Chrome](https://support.google.com/accounts/answer/61416?hl=en)
-- [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
-- [Internet Explorer](http://windows.microsoft.com/it-it/windows-vista/block-or-allow-cookies)
-- [Safari](http://support.apple.com/kb/PH17191?viewlocale=it_IT&locale=it_IT)
-- [Safari IOs](http://support.apple.com/kb/HT1677?utm_source=Agillic%20Dialogue)
-- [Opera](http://help.opera.com/Windows/10.00/it/cookies.html)
+- [Google Chrome](https://support.google.com/accounts/answer/61416?hl=en "Google Chrome")
+- [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences "Mozilla Firefox")
+- [Internet Explorer](http://windows.microsoft.com/it-it/windows-vista/block-or-allow-cookies "Internet Explorer")
+- [Safari](http://support.apple.com/kb/PH17191?viewlocale=it_IT&locale=it_IT "Safari]")
+- [Safari IOs](http://support.apple.com/kb/HT1677?utm_source=Agillic%20Dialogue "Safari]")
+- [Opera](http://help.opera.com/Windows/10.00/it/cookies.html "Opera")
 
 **Google Chrome**
 
@@ -139,6 +139,6 @@ Eseguire il Browser Internet Explorer
   -   Accetta i cookie solo dal sito che si visita: i cookie di terze parti e che vengono inviati da un dominio diverso da quello che si sta visitando verranno rifiutati
   -   Non accettare mai i cookie: tutti i cookie non verranno mai salvati
 
-Come indicato, l’Utente potrà negare il consenso all’installazione dei cookie per il mezzo del browser di navigazione in uso seguendo le istruzioni ivi fornite o accedendo al sito http://www.youronlinechoices.com/it/le-tue-scelte/.
+Come indicato, l’Utente potrà negare il consenso all’installazione dei cookie per il mezzo del browser di navigazione in uso seguendo le istruzioni ivi fornite o accedendo al sito **[youronlinechoices.com.](http://www.youronlinechoices.com/it/le-tue-scelte/ "YourOnlineChoices.eu - Le tue scelte")**
 
-Per ulteriori informazioni su come cancellare e controllare i cookie archiviati sul computer, si prega di consultare http://www.allaboutcookies.org/manage-cookies/index. Non possiamo tuttavia garantire la correttezza e l’aggiornamento delle informazioni ivi contenute.
+Per ulteriori informazioni su come cancellare e controllare i cookie archiviati sul computer, si prega di consultare **[allaboutcookies.org](https://www.allaboutcookies.org/manage-cookies/index.html "Manage Cookies |What can I do to manage cookies stored on my computer?")** Non possiamo tuttavia garantire la correttezza e l’aggiornamento delle informazioni ivi contenute.

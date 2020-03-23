@@ -18,7 +18,7 @@ E poi:
 - **prima di chiedere** aiuto qui, **cerca** un po' sul web. Nel 99% dei casi la risposta esiste già ed è quella giusta;
 - **prima di chiedere** aiuto qui, dopo che ti sei documentato, fai comunque qualche tentativo per **risolvere** il tutto in autonomia. Questo ti aiuterà a scrivere in modo molto chiaro la domanda;
 - **documenta per bene** la tua **domanda**. Che strumento hai usato, che versione, ecc. e allega (se puoi) uno o più file per poter replicare quanto descritto;
-- **fai domande** su **temi** vicini a quelli che esplora la [comunità **opendatasicilia**](http://opendatasicilia.it/): i dati aperti, la trasparenza amministrativa, il _civic tech_ e non l'ultima ricetta di "pasta al forno", la traduzione del Moby Dick che hai letto o Blender;
+- **fai domande** su **temi** vicini a quelli che esplora la [comunità **opendatasicilia**](http://opendatasicilia.it/ "OpenDataSicilia"): i dati aperti, la trasparenza amministrativa, il _civic tech_ e non l'ultima ricetta di "pasta al forno", la traduzione del Moby Dick che hai letto o Blender;
 - nel titolo della _issue_ per favore **inserisci** un'"**etichetta**" per classificare i post (ad esempio `[scripting] Come fare a rimuovere i duplicati di una tabella`);
 - ove possibile **fai richieste "strette"**, non troppo generiche e su temi ricchi e estesi. Una richiesta più verticale e circoscritta ha molte più possibilità di ricevere risposta;
 - se sei **soddisfatta/o** della risposta, sei invitata/o a **rimborsare**, creando un testo, una **ricetta**, che racconti per bene il problema che hai riscontrato e come è possibile risolverlo (vedi sotto);
@@ -27,10 +27,10 @@ E poi:
 
 ### Ricette
 
-Le stiamo raccogliendo in [questa cartella](./ricette) e pubblicando [**qui**](https://tansignari.readthedocs.io/it/latest/ricette/index.html). Inserisce le tue qui. Se non sai come si fa, chiedilo con una _issue_; non appena possibile scriveremo una guida.
+Le stiamo raccogliendo in [questa cartella](/ricette/  "Le ricette di T'ansignari") e pubblicando [**qui**](https://tansignari.readthedocs.io/it/latest/ricette/index.html). Inserisce le tue qui. Se non sai come si fa, chiedilo con una _issue_; non appena possibile scriveremo una guida.
 
 ### Sitografia/Bibliografia
 
-- [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html);
-- [How to create a Minimal, Reproducible Example](https://stackoverflow.com/help/minimal-reproducible-example);
-- [How do I ask a good question?](https://stackoverflow.com/help/how-to-ask).
+- [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html "How To Ask Questions The Smart Way");
+- [How to create a Minimal, Reproducible Example](https://stackoverflow.com/help/minimal-reproducible-example "How to create a Minimal, Reproducible Example");
+- [How do I ask a good question?](https://stackoverflow.com/help/how-to-ask "How do I ask a good question?").
