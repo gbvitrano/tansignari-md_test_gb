@@ -1,11 +1,15 @@
 
 {{ define "main"}}
-    <main id="main">
-      <div>
+<section class="row td-box td-box--4 td-box--gradient td-box--height-auto">
+  <div class="col">
+    <div class="row paddingrow">
+      <div class="col-12 nopadding">
        <h1 id="title">Ci dispiace</h1>
        <p>Oops! Questa pagina non esiste. Prova a ripartire dalla <a href="{{ "/" | relURL }}" title="Torna alla home page">home page</a>.</p>
 
        <img src="/404.gif" class="immagonobox">
       </div>
-    </main>
+    </div>
+  </div>
+</section>
 {{ end }}
