@@ -27,7 +27,7 @@ E poi:
 
 ### Ricette
 
-Le stiamo raccogliendo in [questa cartella](/ricette/  "Le ricette di T'ansignari") e pubblicando [**qui**](https://tansignari.readthedocs.io/it/latest/ricette/index.html). Inserisce le tue qui. Se non sai come si fa, chiedilo con una _issue_; non appena possibile scriveremo una guida.
+Le stiamo raccogliendo in **[questa cartella](../ricette/  "Le ricette di T'ansignari")**  e pubblicando [**qui**](https://tansignari.readthedocs.io/it/latest/ricette/index.html). Inserisce le tue qui. Se non sai come si fa, chiedilo con una _issue_; non appena possibile scriveremo una guida.
 
 ### Sitografia/Bibliografia
 
