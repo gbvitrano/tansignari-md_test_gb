@@ -18,6 +18,7 @@ chefs: ["Andrea Borruso"]
 
 ---
 
+
 **Caso d'uso:** Partendo da due file di testo, con diverso numero di colonne, fare un `join` tra il campo 3 del primo e 1 del secondo file mantenendo solo alcuni campi e non tutti, tenendo presente che il primo file è un CSV con intestazione e il secondo un TSV senza intestazione.
 
 ## script

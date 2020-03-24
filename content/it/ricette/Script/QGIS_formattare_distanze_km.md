@@ -14,6 +14,7 @@ chefs: ["Totò Fiandaca"]
 
 ---
 
+
 **Caso d'uso:** Vettore lineare (strade), la tabella attributi ha un campo **prog** che rappresenta le `distanze progressive` espresse in metri, in questa ricetta popoleremo - usando il calcolatore di campi di QGIS - un nuovo campo (prog_km) con le `distanze chilometriche progressive` in stile autostrade ovvero: da questi numeri interi 6320, 11, 743, 25931 espressi in metri, in questo formato 6+320, 0+011, 0+742, 25+931 che diventano testuale.
 
 ## espressione

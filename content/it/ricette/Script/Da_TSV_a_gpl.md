@@ -21,6 +21,7 @@ chefs: ["Andrea Borruso"]
 
 ---
 
+
 **Caso d'uso:** A partire da un file `QML` (file di tematizzazione di QGIS) ottenere un file **QGIS Palette** in formato `gpl` da riutilizzare in QGIS per la tematizzazione feature e legenda.
 
 ## script bash

@@ -13,6 +13,7 @@ chefs: ["Andrea Borruso"]
 
 ---
 
+
 Può capitare che durante la procedura di compilazione del progetto su **Read the Docs** appaia un messaggio: *“cannot import name “PackageFinder” from “pip._internal.index”*. Ciò comporta la **non compilazione del progetto** su Read the Docs, quindi gli aggiornamenti apportati sulle pagine di Github non vengono renderizzati sulle pagine `HTML` di Read the Docs.
 
 

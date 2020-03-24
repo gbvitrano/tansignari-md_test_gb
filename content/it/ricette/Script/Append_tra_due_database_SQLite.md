@@ -18,6 +18,7 @@ chefs: ["Andrea Borruso"]
 
 ---
 
+
 ## caso d'uso
 Appendere dati da una tabella a un'altra è una operazione ripetitiva che si risolve, brillantemente, attraverso lo scripting usando, per esempio, la libreria [GDAL/OGR](https://www.gdal.org/ogr2ogr.html) o script [SQL](https://it.wikipedia.org/wiki/Structured_Query_Language). Questa procedura facilita enormemente il lavoro di gruppo su uno stesso database SQLite (_db_main.sqlite_) distribuito a più persone (per esempio _db01.sqlite_): permettendo di appendere i dati nel db originario dopo una sessione di lavoro.
 

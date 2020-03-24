@@ -15,6 +15,7 @@ chefs: ["Andrea Borruso"]
 
 ---
 
+
 Questa ricetta nasce perché se si fa l'**upload** diretto di una GIF animata su Telegram, questa perde in qualità e diventa poco leggibile; sopratutto dopo lo zoom.
 
 Per fare in modo che mantenga la leggibilità, basta convertirla in formato `MP4` e poi fare l'upload di questo file, che verrà trasformato di nuovo in GIF animata dal client Telegram.

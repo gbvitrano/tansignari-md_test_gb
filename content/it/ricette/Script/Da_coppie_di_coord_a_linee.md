@@ -18,6 +18,7 @@ chefs: ["Andrea Borruso","Totò Fiandaca"]
 
 ---
 
+
 **Caso d'uso:** Creare linee a partire da coppie di punti e indentificativo linea
 
 ## script bash

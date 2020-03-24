@@ -21,6 +21,7 @@ Come crare una geo-tabella 3D con EPSG 6708 a partire da uno shapefile 2D import
 
 ---
 
+
 ## Introduzione
 
 Dopo aver effettuato un rilievo topografico con un GPS differenziale, spesso abbiamo bisogno di convertire le nostre coordinate geografiche espresse in Latitudine e Longitudine,

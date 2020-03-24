@@ -16,6 +16,7 @@ chefs: ["Andrea Borruso"]
 
 ---
 
+
 ## Introduzione
 
 l'[ISTAT](https://www.istat.it/) mette a disposizione molti dataset, quello di questa ricetta riguarda la **Popolazione residente al 1° gennaio 2019** per ogni Regione (e provincia) italiana. L'interfaccia messa a disposizione dall'[I.STAT](http://dati.istat.it/Index.aspx) è molto complessa e lenta, quindi, spesso, è più veloce scaricare l'intero dataset e poi filtrarlo in locale con altri applicativi, per esempio **Visidata**.

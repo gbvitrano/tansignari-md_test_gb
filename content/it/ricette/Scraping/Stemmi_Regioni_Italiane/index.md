@@ -19,6 +19,7 @@ chefs: ["Andrea Borruso"]
 
 ---
 
+
 **Caso d'uso:** Scaricare i dati di questa tabella, in particolare i primi due campi (Regione e link immagine).
 
 ![](img_01.png)

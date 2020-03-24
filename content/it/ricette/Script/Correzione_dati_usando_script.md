@@ -17,6 +17,7 @@ chefs: ["Andrea Borruso"]
 
 ---
 
+
 ## caso d'uso
 
 La correzione dei dati puo' essere effettuata in vari modi, quella che permette di ripetere, facilmente, le stesse correzioni nel tempo è quella tramite l'uso di uno script.

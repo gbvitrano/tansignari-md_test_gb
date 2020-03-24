@@ -15,6 +15,7 @@ chefs: ["Andrea Borruso"]
 
 ---
 
+
 ![image](./demetra_articolo.png)
 
 Per estrarre un elenco di elementi utili da una lunga pagina web come quella di una legge, è possibile utilizzare una tecnica replicabile modificando solo il riferimeno all'elemento **css** da scaricare.

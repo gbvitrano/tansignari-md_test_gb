@@ -20,6 +20,7 @@ chefs: ["Giovanni Pirrotta","Andrea Borruso"]
 
 ---
 
+
 **Caso d'uso:** Partendo da un file XML la cui struttura è quella di un file **QML** (proveniente dalla tematizzazione - metodo categorizzato - di un layer vettoriale in QGIS) sostituire/modificare alcuni valori presenti nel file.
 
 ## script

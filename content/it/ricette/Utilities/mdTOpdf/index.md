@@ -20,6 +20,7 @@ chefs: ["Andrea Borruso","Gianni Vitrano"]
   
 ---
 
+
 ## Introduzione
 
 Utilizzando molto [GitHub](https://github.com/) è altrettanto frequente l'utilizzo del linguaggio [`markdowm`](https://it.wikipedia.org/wiki/Markdown) (`md`), un linguaggio semplice da usare che permette la formattazione del testo in brevissimo tempo. Alcune volte nasce l'esigenza di convertire molti file `*.md` in `PDF`: esistono varie estensioni (sono stati testati alcuni in [VS code](https://code.visualstudio.com/) oppure facendo uso della riga di comando in _bash_ (usando `Pandoc`) con passaggio intermedio, cioè creazione di file `odt` ([Libre Office Writer](https://it.wikipedia.org/wiki/LibreOffice_Writer)).
